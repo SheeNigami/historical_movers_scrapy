@@ -21,7 +21,7 @@ DOWNLOADER_MIDDLEWARES = {
 
 # only consider snapshots during the year of 2016
 # WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20200125000000)
-WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20160622000000)
+WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20160630000000)
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
