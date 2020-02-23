@@ -5,10 +5,26 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
 
-import scrapy
+from scrapy.item import Item, Field
 
 
-class WaybackmachineHistoricalMoversItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class Ticker(Item):
+    datetime = Field()
+    session = Field()
+    mover = Field()
+
+    symb = Field()
+    company = Field()
+    sector = Field()
+    industry = Field()
+    market_cap = Field()
+    income = Field()
+    insider_own = Field()
+    shs_outstanding = Field()
+    shs_float = Field()
+    short_float = Field()
+    short_ratio = Field()
+    last = Field()
+    volume = Field()
+    changePct = Field()
+

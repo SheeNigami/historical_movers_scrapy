@@ -1,7 +1,8 @@
 import scrapy
 import json
 import logging
-from urllib.request import pathname2url
+
+from waybackmachine_historical_movers.items import Ticker
 
 
 class MoversSpider(scrapy.Spider):
@@ -31,7 +32,7 @@ class MoversSpider(scrapy.Spider):
                 company = row.css('td.tdCompany > a::text').get()
                 volume = int(row.css('td.tdVolume::text').get())
                 to_pass = {
-                    'datetime': response.meta['wayback_machine_time'].strftime("%m/%d/%Y, %H:%M:%S"),
+                    'datetime': response.meta['wayback_machine_time'],
                     'session': session,
                     'mover': move,
                     'symb': symb,
@@ -88,15 +89,24 @@ class MoversSpider(scrapy.Spider):
         short_float = info_table.css('tr:nth-child(3) > td:nth-child(10) > b > span::text').get()
         short_ratio = info_table.css('tr:nth-child(4) > td:nth-child(10) > b::text').get()
 
-        pass_on['sector'] = sector
-        pass_on['industry'] = industry
-        pass_on['insider_own'] = insider_own
-        pass_on['shs_outstanding'] = shs_outstanding
-        pass_on['market_cap'] = market_cap
-        pass_on['shs_float'] = shs_float
-        pass_on['income'] = income
-        pass_on['short_float'] = short_float
-        pass_on['short_ration'] = short_ratio
+        ticker = Ticker()
+        ticker['datetime'] = pass_on['datetime']
+        ticker['session'] = pass_on['session']
+        ticker['mover'] = pass_on['mover']
+        ticker['symb'] = pass_on['symb']
+        ticker['changePct'] = pass_on['changePct']
+        ticker['last'] = pass_on['last']
+        ticker['company'] = pass_on['company']
+        ticker['volume'] = pass_on['volume']
+        ticker['sector'] = sector
+        ticker['industry'] = industry
+        ticker['insider_own'] = insider_own
+        ticker['shs_outstanding'] = shs_outstanding
+        ticker['market_cap'] = market_cap
+        ticker['shs_float'] = shs_float
+        ticker['income'] = income
+        ticker['short_float'] = short_float
+        ticker['short_ratio'] = short_ratio
 
-        yield pass_on
+        yield ticker
 
