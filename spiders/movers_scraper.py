@@ -31,16 +31,6 @@ class MoversSpider(scrapy.Spider):
                 symb = row.css('td.tdSymbol > a::text').get()
                 company = row.css('td.tdCompany > a::text').get()
                 volume = int(row.css('td.tdVolume::text').get())
-                to_pass = {
-                    'datetime': response.meta['wayback_machine_time'],
-                    'session': session,
-                    'mover': move,
-                    'symb': symb,
-                    'changePct': change_pct,
-                    'last': last,
-                    'company': company,
-                    'volume': volume
-                }
 
                 if change_pct > 10.0 and volume > 25000:
                     finviz_url = 'https://finviz.com/quote.ashx?t='+symb
@@ -51,7 +41,7 @@ class MoversSpider(scrapy.Spider):
                     ticker['session'] = session
                     ticker['mover'] = move
                     ticker['symb'] = symb
-                    ticker['changePct'] = change_pct
+                    ticker['change_pct'] = change_pct
                     ticker['last'] = last
                     ticker['company'] = company
                     ticker['volume'] = volume

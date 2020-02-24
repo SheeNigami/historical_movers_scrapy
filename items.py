@@ -26,5 +26,5 @@ class Ticker(Item):
     short_ratio = Field()
     last = Field()
     volume = Field()
-    changePct = Field()
+    change_pct = Field()
 

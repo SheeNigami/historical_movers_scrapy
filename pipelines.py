@@ -12,8 +12,13 @@ class WaybackmachineHistoricalMoversPipeline(object):
     Types = ['premarket-gainers', 'premarket-losers', 'after-hours-gainers', 'after-hours-losers']
 
     def open_spider(self, spider):
-        self.files = dict([(name, open(name+'.csv', 'w+')) for name in self.Types])
-        self.exporters = dict([ (name,CsvItemExporter(self.files[name])) for name in self.Types])
+        self.files = dict([(name, open(name+'.csv', 'wb+')) for name in self.Types])
+        self.exporters = dict([(name, CsvItemExporter(self.files[name])) for name in self.Types])
+        for exporter in self.exporters:
+            exporter.fields_to_export = ['datetime', 'symb', 'company', 'sector', 'industry',
+                                         'market_cap', 'income', 'insider_own', 'shs_outstanding', 'shs_float',
+                                         'short_float', 'short_ratio', 'last', 'volume', 'change_pct']
+
         [e.start_exporting() for e in self.exporters.values()]
 
     def close_spider(self, spider):

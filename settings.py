@@ -19,7 +19,7 @@ DOWNLOADER_MIDDLEWARES = {
     'waybackmachine_historical_movers.middlewares.WaybackMachineMiddleware': 5,
 }
 
-ITEM_PIPELINES = {'pipelines.WaybackmachineHistoricalMoversPipeline': 50}
+ITEM_PIPELINES = {'waybackmachine_historical_movers.pipelines.WaybackmachineHistoricalMoversPipeline': 50}
 
 # only consider snapshots during the year of 2016
 # WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20200125000000)
