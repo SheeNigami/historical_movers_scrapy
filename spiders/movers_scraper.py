@@ -18,7 +18,7 @@ class MoversSpider(scrapy.Spider):
 
     def parse(self, response):
         if 'pre-market' in response.request.url:
-            session = 'pre-market'
+            session = 'premarket'
         else:
             session = 'after-hours'
 
@@ -46,11 +46,20 @@ class MoversSpider(scrapy.Spider):
                     finviz_url = 'https://finviz.com/quote.ashx?t='+symb
                     snapshots_url = 'http://web.archive.org/cdx/search/cdx?url={}&output=json&fl=timestamp'\
                                     .format(finviz_url)
+                    ticker = Ticker()
+                    ticker['datetime'] = response.meta['wayback_machine_time']
+                    ticker['session'] = session
+                    ticker['mover'] = move
+                    ticker['symb'] = symb
+                    ticker['changePct'] = change_pct
+                    ticker['last'] = last
+                    ticker['company'] = company
+                    ticker['volume'] = volume
 
                     yield scrapy.Request(url=snapshots_url,
                                          dont_filter=True, callback=self.parse_cdx,
                                          cb_kwargs=dict(target_time=response.meta['wayback_machine_time'],
-                                                        finviz_url=finviz_url, passed=to_pass))
+                                                        finviz_url=finviz_url, ticker=ticker))
 
     def compare_cdx(self, times, target):
         for timestamp in times[1:]:
@@ -59,7 +68,7 @@ class MoversSpider(scrapy.Spider):
                 return actual
         return int(times[-1][0])
 
-    def parse_cdx(self, response, target_time, finviz_url, passed):
+    def parse_cdx(self, response, target_time, finviz_url, ticker):
         try:
             data = json.loads(response.text)
         except json.decoder.JSONDecodeError:
@@ -73,9 +82,9 @@ class MoversSpider(scrapy.Spider):
         # send another request to get finviz data with closest time
         snapshot_url = 'http://web.archive.org/web/{timestamp}id_/{original}'.format(timestamp=closest_time, original=finviz_url)
 
-        yield scrapy.Request(url=snapshot_url, dont_filter=True, callback=self.parse_finviz, cb_kwargs=dict(pass_on=passed))
+        yield scrapy.Request(url=snapshot_url, dont_filter=True, callback=self.parse_finviz, cb_kwargs=dict(ticker=ticker))
 
-    def parse_finviz(self, response, pass_on):
+    def parse_finviz(self, response, ticker):
         company_type = response.css('td.fullview-links')[1]
         sector = company_type.css('a::text')[0].get()
         industry = company_type.css('a::text')[1].get()
@@ -86,18 +95,13 @@ class MoversSpider(scrapy.Spider):
         market_cap = info_table.css('tr:nth-child(2) > td:nth-child(2) > b::text').get()
         shs_float = info_table.css('tr:nth-child(2) > td:nth-child(10) > b::text').get()
         income = info_table.css('tr:nth-child(3) > td:nth-child(2) > b::text').get()
-        short_float = info_table.css('tr:nth-child(3) > td:nth-child(10) > b > span::text').get()
+        short_float_check = info_table.css('tr:nth-child(3) > td:nth-child(10) > b')
+        if len(short_float_check.css('span')) != 0:
+            short_float = info_table.css('span::text').get()
+        else:
+            short_float = info_table.css('b::text').get()
         short_ratio = info_table.css('tr:nth-child(4) > td:nth-child(10) > b::text').get()
 
-        ticker = Ticker()
-        ticker['datetime'] = pass_on['datetime']
-        ticker['session'] = pass_on['session']
-        ticker['mover'] = pass_on['mover']
-        ticker['symb'] = pass_on['symb']
-        ticker['changePct'] = pass_on['changePct']
-        ticker['last'] = pass_on['last']
-        ticker['company'] = pass_on['company']
-        ticker['volume'] = pass_on['volume']
         ticker['sector'] = sector
         ticker['industry'] = industry
         ticker['insider_own'] = insider_own
