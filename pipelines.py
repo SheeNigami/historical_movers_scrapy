@@ -12,8 +12,8 @@ class WaybackmachineHistoricalMoversPipeline(object):
     Types = ['premarket-gainers', 'premarket-losers', 'after-hours-gainers', 'after-hours-losers']
 
     def open_spider(self, spider):
-        self.files = dict([(name, open(name+'.csv', 'wb+')) for name in self.Types])
-        self.exporters = dict([(name, CsvItemExporter(self.files[name])) for name in self.Types])
+        self.files = dict([(name, open('./scraped/'+name+'.csv', 'wb+')) for name in self.Types])
+        self.exporters = dict([(name, CsvItemExporter(self.files[name], include_headers_line=True)) for name in self.Types])
         for exporter_key in self.exporters.keys():
             self.exporters[exporter_key].fields_to_export = ['datetime', 'symb', 'company', 'sector', 'industry',
                                                              'market_cap', 'income', 'insider_own', 'shs_outstanding',
@@ -27,7 +27,7 @@ class WaybackmachineHistoricalMoversPipeline(object):
         [f.close() for f in self.files.values()]
 
     def process_item(self, item, spider):
-        if item.get('session') == 'pre-market':
+        if item.get('session') == 'premarket':
             # Get datetime and figure out what date to log
             item_datetime = item.get('datetime')
             if item_datetime.time() < datetime.time(9, 30, 0):
@@ -51,7 +51,7 @@ class WaybackmachineHistoricalMoversPipeline(object):
                 item['datetime'] = item_datetime.strftime("%Y-%m-%d")
 
             # Write appropriate file
-            if item.get('mover' == 'Top Gaining Stocks'):
+            if item.get('mover') == 'Top Gaining Stocks':
                 self.exporters['after-hours-gainers'].export_item(item)
             else:
                 self.exporters['after-hours-losers'].export_item(item)

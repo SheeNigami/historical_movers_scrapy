@@ -22,8 +22,8 @@ DOWNLOADER_MIDDLEWARES = {
 ITEM_PIPELINES = {'waybackmachine_historical_movers.pipelines.WaybackmachineHistoricalMoversPipeline': 50}
 
 # only consider snapshots during the year of 2016
-# WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20200125000000)
-WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20160630000000)
+WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20200125000000)
+# WAYBACK_MACHINE_TIME_RANGE = (20160620000000, 20160625000000)
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -38,13 +38,13 @@ ROBOTSTXT_OBEY = False
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-#DOWNLOAD_DELAY = 3
+DOWNLOAD_DELAY = 1
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-#COOKIES_ENABLED = False
+COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
