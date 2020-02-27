@@ -15,10 +15,10 @@ class WaybackmachineHistoricalMoversPipeline(object):
         self.files = dict([(name, open('./scraped/'+name+'.csv', 'wb+')) for name in self.Types])
         self.exporters = dict([(name, CsvItemExporter(self.files[name], include_headers_line=True)) for name in self.Types])
         for exporter_key in self.exporters.keys():
-            self.exporters[exporter_key].fields_to_export = ['datetime', 'symb', 'company', 'sector', 'industry',
-                                                             'market_cap', 'income', 'insider_own', 'shs_outstanding',
-                                                             'shs_float', 'short_float', 'short_ratio', 'last',
-                                                             'volume', 'change_pct']
+            self.exporters[exporter_key].fields_to_export = ['datetime', 'symb', 'company', 'finviz_date', 'sector',
+                                                             'industry', 'market_cap', 'income', 'insider_own',
+                                                             'shs_outstanding', 'shs_float', 'short_float',
+                                                             'short_ratio', 'last', 'volume', 'change_pct']
 
         [e.start_exporting() for e in self.exporters.values()]
 
