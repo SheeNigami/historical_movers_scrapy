@@ -7,7 +7,7 @@
 
 3) For each ticker scraped, call cdx api of waybackmachine for finviz site of the ticker to see dates where site is changed ( ./spiders/movers_scraper.py, parse_cdx() )
 
-4) Get the closest date where finviz site is updated after date of stockmarketwatch snapshot and scrape required data from waybackmachine archive of finviz site for ticker ( ./spiders/movers_scraper.py, parse_finviz() )
+4) Get the closest date where finviz site is updated and scrape required data from waybackmachine archive of finviz site (or current site if closest) for ticker ( ./spiders/movers_scraper.py, parse_finviz() )
 
 5) Store all scraped info along with session and move info as Ticker item (items.py)
 
