@@ -87,10 +87,10 @@ class MoversSpider(scrapy.Spider):
         income = info_table.css('tr:nth-child(3) > td:nth-child(2) > b::text').get()
         short_float_check = info_table.css('tr:nth-child(3) > td:nth-child(10) > b')
         if len(short_float_check.css('span')) != 0:
-            short_float = info_table.css('span::text').get()
+            short_float = short_float_check.css('span::text').get()
         else:
             short_float = info_table.css('b::text').get()
-        short_ratio = info_table.css('tr:nth-child(4) > td:nth-child(10) > b::text').get()
+        short_ratio = short_float_check.css('tr:nth-child(4) > td:nth-child(10) > b::text').get()
 
         ticker['sector'] = sector
         ticker['industry'] = industry
