@@ -1,6 +1,7 @@
 import scrapy
 import json
 import logging
+import datetime as dt
 
 from waybackmachine_historical_movers.items import Ticker
 
@@ -51,13 +52,6 @@ class MoversSpider(scrapy.Spider):
                                          cb_kwargs=dict(target_time=response.meta['wayback_machine_time'],
                                                         finviz_url=finviz_url, ticker=ticker))
 
-    def compare_cdx(self, times, target):
-        for timestamp in times[1:]:
-            actual = int(timestamp[0])
-            if actual > int(target):
-                return actual
-        return int(times[-1][0])
-
     def parse_cdx(self, response, target_time, finviz_url, ticker):
         try:
             data = json.loads(response.text)
@@ -65,14 +59,20 @@ class MoversSpider(scrapy.Spider):
             # forbidden by robots.txt
             data = []
         if len(data) != 0:
-            closest_time = self.compare_cdx(data, target_time.strftime("%Y%d%m%H%M%S"))
-        else:
-            closest_time = -1
+            times = [dt.datetime.strptime(date[0], "%Y%m%d%H%M%S") for date in data[1:]]
+            now = dt.datetime.utcnow()
+            times.append(now)
+            nearest = min(times, key=lambda x: abs(x - target_time.replace(tzinfo=None)))
+            ticker['finviz_date'] = nearest.strftime("%Y-%m-%d")
+            if nearest is now:
+                snapshot_url = finviz_url
+            else:
+                # send another request to get finviz data with closest time
+                snapshot_url = 'http://web.archive.org/web/{timestamp}id_/{original}'\
+                                .format(timestamp=nearest.strftime('%Y%m%d%H%M%S'), original=finviz_url)
 
-        # send another request to get finviz data with closest time
-        snapshot_url = 'http://web.archive.org/web/{timestamp}id_/{original}'.format(timestamp=closest_time, original=finviz_url)
-
-        yield scrapy.Request(url=snapshot_url, dont_filter=True, callback=self.parse_finviz, cb_kwargs=dict(ticker=ticker))
+            yield scrapy.Request(url=snapshot_url, dont_filter=True,
+                                 callback=self.parse_finviz, cb_kwargs=dict(ticker=ticker))
 
     def parse_finviz(self, response, ticker):
         company_type = response.css('td.fullview-links')[1]
@@ -89,8 +89,8 @@ class MoversSpider(scrapy.Spider):
         if len(short_float_check.css('span')) != 0:
             short_float = short_float_check.css('span::text').get()
         else:
-            short_float = info_table.css('b::text').get()
-        short_ratio = short_float_check.css('tr:nth-child(4) > td:nth-child(10) > b::text').get()
+            short_float = short_float_check.css('b::text').get()
+        short_ratio = info_table.css('tr:nth-child(4) > td:nth-child(10) > b::text').get()
 
         ticker['sector'] = sector
         ticker['industry'] = industry

@@ -10,6 +10,7 @@ from scrapy.item import Item, Field
 
 class Ticker(Item):
     datetime = Field()
+    finviz_date = Field()
     session = Field()
     mover = Field()
 
