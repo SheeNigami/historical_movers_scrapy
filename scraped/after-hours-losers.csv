@@ -1,0 +1,571 @@
+datetime,symb,company,finviz_date,sector,industry,market_cap,income,insider_own,shs_outstanding,shs_float,short_float,short_ratio,last,volume,change_pct
+2019-12-19,IGT,International Game ,2020-02-27,Services,Gaming Activities,2.43B,32.40M,,210.95M,98.27M,7.67%,5.41,11.69,539330,22.38
+2019-07-26,MMSI,Merit Medical Syst ,2020-02-27,Healthcare,Medical Instruments & Supplies,2.14B,22.00M,2.40%,56.76M,53.50M,10.56%,7.02,48.0,88710,12.47
+2019-07-26,MHK,Mohawk Industries ,2020-02-27,Consumer Goods,Home Furnishings & Fixtures,8.96B,744.20M,0.70%,71.18M,57.39M,7.08%,6.25,136.0,68150,13.02
+2019-06-04,BOX,Box Inc. Class A ,2020-02-27,Technology,Application Software,2.25B,-132.60M,0.20%,149.91M,144.90M,5.58%,4.86,15.59,2140000,13.05
+2019-03-05,USAT,Usa Technologies I ,2020-02-27,Technology,Technical & System Software,510.01M,-,9.34%,60.00M,36.96M,23.99%,51.82,3.64,307460,11.0
+2019-08-10,CTST,Canntrust Holdings ,2019-08-01,Healthcare,Drugs - Generic,-,-,-,-,115.29M,6.69%,1.73,2.75,802480,13.25
+2019-06-12,PLAY,"Dave & Buster""s En ",2019-06-12,Services,Restaurants,1.46B,117.20M,0.90%,36.60M,34.49M,19.37%,6.72,42.6,1140000,17.33
+2019-06-04,VISL,Vislink Technologi ,2019-07-10,Technology,Communication Equipment,7.95M,-14.60M,28.10%,1.94M,1.70M,3.11%,0.24,2.61,107920,12.12
+2019-05-03,FND,Floor & Decor Hold ,2019-07-03,Services,Home Improvement Stores,3.95B,113.90M,0.30%,94.23M,85.85M,11.80%,9.13,42.82,180080,11.33
+2019-05-03,SRCL,Stericycle Inc. ,2019-05-02,Industrial Goods,Waste Management,5.17B,-244.50M,0.20%,90.70M,89.30M,11.17%,9.23,49.0,70150,14.41
+2019-04-03,ADXS,Advaxis Inc. ,2019-07-03,Healthcare,Biotechnology,15.28M,-29.20M,0.20%,8.04M,7.72M,4.22%,1.20,4.9,256450,16.95
+2019-05-03,ANET,Arista Networks In ,2019-05-17,Technology,Diversified Computer Systems,16.80B,313.30M,0.10%,75.38M,53.34M,3.22%,1.95,263.99,377110,15.07
+2019-03-15,ATOS,Atossa Genetics In ,2020-02-27,Healthcare,Biotechnology,11.88M,-16.70M,0.57%,9.28M,9.08M,2.62%,3.03,6.23,2840000,11.88
+2019-03-15,AGTC,Applied Genetic Te ,2019-03-15,Healthcare,Biotechnology,52.75M,-14.80M,0.90%,17.82M,14.98M,0.61%,0.61,3.85,700000,11.15
+2019-03-05,AFH,Atlas Financial Ho ,2020-01-11,Financial,Property & Casualty Insurance,6.97M,-,10.05%,11.94M,10.17M,0.29%,0.22,4.0,64690,41.17
+2019-03-15,HEAR,Turtle Beach Corpo ,2019-01-19,Technology,Communication Equipment,242.01M,47.20M,14.10%,14.44M,11.01M,58.11%,6.41,14.26,608810,12.25
+2019-08-10,ETM,Entercom Communica ,2020-02-27,Services,Broadcasting - Radio,544.32M,-318.40M,1.30%,143.62M,117.90M,10.33%,14.93,2.97,65970,16.1
+2019-12-19,PSTG,Pure Storage Inc. ,2020-02-27,Technology,Data Storage Devices,4.27B,-222.10M,4.30%,268.97M,234.65M,7.87%,6.18,13.01,187990,23.7
+2019-12-19,DXCM,Dexcom Inc. ,2020-02-27,Healthcare,Medical Laboratories & Research,26.47B,101.10M,0.80%,95.14M,91.20M,5.09%,5.12,163.68,91960,25.14
+2019-12-19,GMED,Globus Medical Inc ,2020-02-27,Healthcare,Medical Appliances & Equipment,5.00B,146.40M,0.90%,101.39M,75.82M,2.34%,3.67,44.34,55670,25.27
+2019-12-19,NERV,Minerva Neuroscien ,2020-02-27,Healthcare,Biotechnology,289.08M,-55.50M,0.80%,39.33M,37.51M,8.39%,7.97,5.0,577440,27.43
+2019-12-19,RIG,Transocean Ltd (sw ,2020-02-27,Basic Materials,Oil & Gas Drilling & Exploration,2.17B,-1255.00M,0.30%,633.20M,571.79M,13.50%,4.54,4.23,1170000,29.97
+2019-12-19,VAC,Marriott Vacations ,2020-02-27,Services,Resorts & Casinos,4.13B,131.00M,1.90%,42.88M,37.14M,4.71%,6.44,88.97,37840,30.45
+2019-12-19,WAL,Western Alliance B ,2019-10-18,Financial,Regional - Pacific Banks,4.68B,473.90M,0.30%,101.11M,95.57M,1.34%,1.58,43.12,64250,24.46
+2019-02-15,XPO,Xpo Logistics Inc. ,2019-06-05,Services,Air Delivery & Freight Services,5.12B,366.10M,0.10%,95.02M,89.50M,15.17%,5.18,50.75,737950,14.78
+2018-11-15,VRAY,Viewray Inc. ,2020-02-27,Healthcare,Medical Appliances & Equipment,445.02M,-101.70M,19.00%,145.43M,105.66M,15.71%,4.87,5.55,33070,13.95
+2019-02-05,GLUU,Glu Mobile Inc. ,2019-01-27,Technology,Multimedia & Graphics Software,1.33B,-86.30M,1.10%,142.94M,113.25M,6.85%,2.63,9.02,471360,11.57
+2018-11-15,SORL,Sorl Auto Parts In ,2020-02-27,Consumer Goods,Auto Manufacturers - Major,83.23M,22.10M,5.90%,19.31M,7.95M,17.25%,9.95,3.1,43370,18.85
+2018-12-14,YECO,Yulong Eco-materia ,2017-11-15,Industrial Goods,General Building Materials,56.78M,-,,16.41M,10.73M,0.20%,0.47,4.03,157360,20.67
+2019-02-15,MRIN,Marin Software Inc ,2020-02-27,Technology,Application Software,9.52M,-14.20M,16.13%,6.94M,5.57M,0.45%,1.07,4.46,212320,32.42
+2019-02-05,HLIT,Harmonic Inc. ,2019-07-10,Technology,Communication Equipment,661.49M,-18.60M,3.30%,88.79M,85.31M,9.26%,16.31,4.7,62600,12.96
+2019-02-15,LOGM,Logmein Inc. ,2018-11-06,Technology,Application Software,4.50B,51.10M,1.80%,51.60M,50.20M,7.55%,4.18,80.0,430510,16.61
+2019-02-15,TRUE,Truecar Inc. ,2019-11-08,Technology,Internet Service Providers,368.50M,-51.10M,2.50%,100.96M,96.40M,11.88%,8.95,8.38,240160,18.16
+2019-02-05,OPK,Opko Health Inc. ,2019-02-09,Healthcare,Biotechnology,1.04B,-244.30M,5.50%,637.66M,362.11M,23.75%,21.76,3.05,1230000,13.35
+2018-11-08,TIVO,Tivo Corporation ,2018-04-06,Services,CATV Systems,1.71B,40.40M,0.50%,122.51M,119.34M,5.87%,5.57,10.9,108700,10.95
+2018-10-29,YECO,Yulong Eco-materia ,2017-11-15,Industrial Goods,General Building Materials,56.78M,-,,16.41M,10.73M,0.20%,0.47,6.26,161960,12.81
+2018-10-30,TXRH,Texas Roadhouse In ,2019-01-12,Services,Restaurants,4.75B,153.40M,0.40%,70.95M,67.33M,5.63%,5.16,59.1,65120,11.54
+2018-10-19,ABIL,Ability Inc. ,2018-07-17,Technology,Communication Equipment,12.82M,-9.10M,,2.54M,0.91M,27.33%,0.35,3.6,54690,10.35
+2018-09-07,EGAN,egain Corporation ,2020-02-27,Technology,Business Software & Services,281.92M,4.80M,0.40%,30.61M,17.49M,0.66%,0.92,9.95,99660,21.81
+2018-10-19,YECO,Yulong Eco-materia ,2017-11-15,Industrial Goods,General Building Materials,56.78M,-,,16.41M,10.73M,0.20%,0.47,5.18,67200,16.45
+2018-09-22,ANAB,Anaptysbio Inc. ,2017-10-12,Healthcare,Biotechnology,1.41B,-18.40M,9.50%,19.92M,18.89M,1.13%,0.62,79.5,210030,14.33
+2018-09-08,AYTU,Aytu Bioscience In ,2019-10-11,Healthcare,Biotechnology,20.07M,-27.10M,15.71%,19.30M,15.61M,2.62%,2.98,3.1,31840,17.33
+2018-11-08,VYGR,Voyager Therapeuti ,2020-02-27,Healthcare,Biotechnology,409.21M,-53.60M,1.00%,37.10M,30.60M,13.42%,11.28,12.3,45780,12.08
+2018-10-30,CYH,Community Health S ,2019-01-12,Healthcare,Hospitals,430.41M,-2439.00M,0.40%,114.47M,111.74M,24.09%,12.18,2.75,53890,13.52
+2018-10-30,TREX,Trex Company Inc. ,2018-04-28,Industrial Goods,General Building Materials,3.29B,97.00M,0.70%,31.29M,29.21M,2.71%,3.81,50.0,119660,13.96
+2018-11-08,ZAYO,Zayo Group Holding ,2018-03-23,Technology,Networking & Communication Devices,8.46B,129.00M,1.90%,250.68M,202.24M,6.75%,7.11,23.3,53050,23.3
+2018-11-08,ROKU,Roku Inc. ,2019-03-31,Services,CATV Systems,7.74B,-8.90M,0.20%,109.57M,76.88M,15.67%,0.86,51.6,2240000,12.33
+2018-11-08,WYNN,Wynn Resorts Limit ,2018-11-01,Services,Resorts & Casinos,12.79B,259.30M,0.50%,107.88M,98.21M,5.70%,1.75,100.3,767790,12.01
+2018-08-22,DRE,Duke Realty Corpor ,2019-07-03,Financial,REIT - Industrial,11.72B,349.80M,0.20%,359.14M,358.73M,1.38%,2.66,25.39,113290,10.03
+2018-08-13,SWCH,Switch Inc. Class A ,2018-09-01,Technology,Information Technology Services,2.85B,-49.70M,1.50%,246.90M,47.21M,21.83%,8.62,10.95,1400000,21.67
+2018-08-13,VERI,Veritone Inc. ,2019-05-13,Technology,Application Software,140.88M,-64.40M,5.20%,19.22M,13.59M,22.76%,5.34,11.8,67010,25.32
+2018-07-17,AVEO,Aveo Pharmaceutica ,2018-07-17,Healthcare,Biotechnology,338.69M,-65.20M,0.53%,118.84M,118.24M,12.17%,7.76,2.3,488330,19.3
+2018-07-17,NFLX,Netflix Inc. ,2018-07-17,Services,CATV Systems,184.14B,749.90M,1.74%,459.79M,427.15M,3.99%,1.73,344.25,4900000,14.04
+2018-06-18,VBIV,Vbi Vaccines Inc. ,2017-11-01,Healthcare,Biotechnology,131.34M,-33.40M,1.80%,38.18M,23.44M,3.99%,6.35,3.1,184270,11.93
+2018-06-08,EWT,ishares Inc Msci T ,2018-12-25,Financial,Exchange Traded Fund,-,-,-,-,-,-,0.45,32.21,534160,15.38
+2018-06-07,ESND,Essendant Inc. ,2017-06-15,Consumer Goods,Business Equipment,592.18M,-141.30M,1.00%,36.69M,36.69M,3.67%,4.76,12.6,38840,10.64
+2018-06-07,PTI,Proteostasis Thera ,2018-06-07,Healthcare,Biotechnology,170.08M,-55.40M,1.20%,34.71M,30.80M,6.09%,0.90,4.21,1400000,14.08
+2018-06-18,AMEH,Apollo Medical Hol ,2020-02-27,Healthcare,Hospitals,628.43M,4.30M,,35.01M,9.09M,7.90%,7.42,22.25,25120,13.96
+2018-06-07,REVG,Rev Group Inc. ,2018-06-07,Consumer Goods,Recreational Vehicles,1.16B,43.70M,0.90%,64.54M,63.67M,5.68%,5.46,15.35,56300,14.29
+2018-05-10,NUAN,Nuance Communicati ,2017-11-22,Technology,Application Software,4.23B,-67.10M,0.70%,288.60M,284.47M,2.07%,2.87,13.19,274470,13.68
+2018-04-28,S,Sprint Corporation ,2018-04-28,Technology,Wireless Communications,26.02B,-53.00M,0.30%,4.00B,634.24M,18.32%,8.38,5.69,1630000,12.46
+2018-03-15,SLDB,Solid Biosciences  ,2018-04-21,Healthcare,Drugs - Generic,420.83M,-39.30M,22.80%,33.72M,19.13M,6.67%,2.97,12.08,150550,54.09
+2018-03-15,SLDB,Solid Biosciences  ,2018-04-21,Healthcare,Drugs - Generic,420.83M,-39.30M,22.80%,33.72M,19.13M,6.67%,2.97,12.08,150550,54.09
+2018-03-14,ORLY,"O""reilly Automotiv ",2018-10-30,Services,Auto Parts Stores,26.50B,1.27B,0.40%,80.18M,79.03M,2.09%,2.71,200.0,81090,20.26
+2018-03-14,SILC,Silicom Ltd ,2018-03-30,Technology,Networking & Communication Devices,256.35M,15.90M,,7.45M,5.61M,0.57%,0.22,34.0,986760,16.38
+2018-03-14,SILC,Silicom Ltd ,2018-03-30,Technology,Networking & Communication Devices,256.35M,15.90M,,7.45M,5.61M,0.57%,0.22,34.0,986760,16.38
+2018-03-01,BOX,Box Inc. Class A ,2018-05-31,Technology,Application Software,3.86B,-65.30M,0.30%,139.05M,115.12M,7.75%,2.14,20.9,876520,13.13
+2018-02-19,CTL,Centurylink Inc. ,2017-11-08,Technology,Telecom Services - Domestic,18.47B,374.00M,0.70%,1.14B,545.14M,22.36%,9.98,15.98,128370,15.58
+2018-02-12,AFMD,Affimed N.v. ,2017-01-26,Healthcare,Biotechnology,73.48M,-35.30M,,39.72M,28.62M,4.06%,4.81,2.2,38310,10.2
+2018-05-25,ZOES,"Zoe""s Kitchen Inc.  ",2018-05-21,Services,Restaurants,250.90M,-0.20M,1.60%,19.30M,19.19M,25.12%,8.06,11.11,402380,23.22
+2018-05-10,SNCR,Synchronoss Techno ,2018-05-24,Technology,Application Software,767.56M,-54.90M,6.40%,46.35M,35.99M,17.86%,6.09,8.3,221920,14.34
+2018-02-12,HMNY,Helios and Matheso ,2017-12-05,Technology,Information Technology Services,137.38M,-18.80M,29.10%,11.42M,6.10M,52.15%,0.52,6.58,898590,17.65
+2018-03-01,PTLA,Portola Pharmaceut ,2018-02-16,Healthcare,Biotechnology,3.52B,-248.20M,0.53%,64.15M,64.15M,5.73%,4.84,34.15,391680,19.31
+2018-03-14,ORLY,"O""reilly Automotiv ",2018-10-30,Services,Auto Parts Stores,26.50B,1.27B,0.40%,80.18M,79.03M,2.09%,2.71,200.0,81090,20.26
+2018-05-10,MDCA,Mdc Partners Inc. ,2016-11-07,Services,Marketing Services,180.78M,-55.60M,1.10%,53.17M,52.34M,13.85%,12.56,5.71,71210,16.72
+2018-02-07,XIV,Velocityshares Dai ,2018-02-07,Financial,Exchange Traded Fund,-,-,-,-,-,-,0.77,5.98,1140000,18.64
+2018-02-07,BBOX,Black Box Corporat ,2017-08-15,Technology,Networking & Communication Devices,122.32M,-7.10M,3.50%,27.80M,14.69M,4.54%,3.12,2.55,44480,20.31
+2018-01-25,CFMS,Conformis Inc. ,2016-11-10,Healthcare,Medical Instruments & Supplies,394.03M,-61.20M,2.60%,43.30M,31.72M,12.58%,11.27,2.02,79080,11.01
+2017-12-31,KOSS,Koss Corporation ,2018-01-02,Consumer Goods,Electronic Equipment,7.44M,-1.00M,16.80%,3.43M,1.45M,0.41%,0.02,2.7,157370,12.62
+2017-12-31,BECN,Beacon Roofing Sup ,2019-11-15,Industrial Goods,General Building Materials,2.37B,-13.70M,0.10%,68.71M,54.33M,8.08%,8.47,52.42,39650,17.79
+2017-12-15,VSTM,Verastem Inc. ,2018-01-09,Healthcare,Biotechnology,129.77M,-61.20M,0.30%,44.14M,38.80M,3.26%,1.45,3.16,182360,13.42
+2018-01-09,BGFV,Big 5 Sporting Goo ,2016-07-06,Services,Sporting Goods Stores,200.54M,11.90M,1.80%,21.75M,20.31M,4.34%,3.72,6.4,231020,18.47
+2017-12-06,VKTX,Viking Therapeutic ,2018-05-31,Healthcare,Biotechnology,232.55M,-18.90M,3.10%,46.79M,38.90M,6.79%,2.84,2.4,60340,12.41
+2017-11-17,DBEU,Xtrackers Msci Eur ,2017-10-10,Financial,Exchange Traded Fund,-,-,-,-,-,-,0.10,23.43,160020,17.59
+2018-02-06,LEG,Leggett & Platt In ,2018-02-07,Consumer Goods,Home Furnishings & Fixtures,5.13B,339.60M,0.90%,133.80M,129.15M,8.75%,7.61,38.0,35090,12.54
+2018-01-25,OCUL,Ocular Therapeutix ,2017-09-10,Healthcare,Biotechnology,163.96M,-57.10M,,28.22M,25.96M,26.43%,5.24,5.45,137110,11.95
+2018-01-09,TIF,Tiffany & Co. ,2018-01-09,Services,Jewelry Stores,13.26B,465.90M,0.40%,124.49M,123.27M,3.95%,3.43,93.5,926320,12.49
+2018-01-09,TIF,Tiffany & Co. ,2018-01-09,Services,Jewelry Stores,13.26B,465.90M,0.40%,124.49M,123.27M,3.95%,3.43,93.5,926320,12.49
+2017-11-08,EXTR,Extreme Networks I ,2017-10-31,Technology,Networking & Communication Devices,1.18B,-8.50M,1.30%,108.83M,108.62M,2.53%,1.69,10.5,45290,11.09
+2017-11-08,ANTM,Anthem Inc. ,2018-01-17,Healthcare,Health Care Plans,62.98B,2.98B,0.10%,260.50M,256.36M,2.35%,3.60,192.92,44790,11.29
+2017-11-08,DVN,Devon Energy Corpo ,2017-11-01,Basic Materials,Independent Oil & Gas,18.87B,2.29B,0.20%,511.31M,500.14M,2.09%,2.49,36.35,700960,11.9
+2017-11-08,HUN,Huntsman Corporati ,2017-07-04,Basic Materials,Chemicals - Major Diversified,6.21B,350.00M,2.70%,236.50M,203.31M,5.50%,2.23,27.85,466600,12.06
+2017-11-08,SNAP,Snap Inc. Class A ,2017-11-08,Technology,Internet Software & Services,17.25B,-2946.10M,2.70%,1.14B,611.62M,19.81%,4.36,12.55,13060000,17.0
+2017-11-08,RDHL,Redhill Biopharma ,2017-11-08,Healthcare,Biotechnology,-,-,8.52%,-,15.78M,1.24%,2.11,6.1,92140,18.67
+2017-11-08,LC,Lendingclub Corpor ,2017-08-06,Financial,Credit Services,2.09B,-180.00M,1.20%,401.53M,382.91M,11.14%,8.64,4.41,1280000,19.23
+2017-12-06,COP,Conocophillips ,2017-12-05,Basic Materials,Independent Oil & Gas,62.11B,-2469.00M,0.09%,1.21B,1.19B,2.17%,4.24,44.47,368200,13.2
+2017-12-15,HRL,Hormel Foods Corpo ,2017-11-15,Consumer Goods,Meat Products,17.20B,872.50M,0.10%,521.62M,267.89M,11.84%,12.29,30.27,237450,17.34
+2017-12-31,CAVM,Cavium Inc. ,2016-06-16,Technology,Semiconductor - Broad Line,2.82B,-7.00M,3.40%,58.71M,55.61M,13.26%,7.93,68.34,189330,18.48
+2018-01-17,HALO,Halozyme Therapeut ,2018-02-07,Healthcare,Biotechnology,2.66B,-88.30M,0.40%,145.55M,122.94M,9.46%,8.76,16.4,124240,16.92
+2018-01-17,WIFI,Boingo Wireless In ,2018-02-07,Technology,Diversified Communication Services,927.25M,-22.70M,1.70%,40.83M,39.64M,4.10%,3.98,19.3,28020,10.19
+2018-01-17,HTGM,Htg Molecular Diag ,2018-03-23,Healthcare,Medical Laboratories & Research,124.71M,-22.70M,1.90%,27.90M,25.07M,7.92%,0.96,2.85,278910,18.57
+2018-01-09,BGFV,Big 5 Sporting Goo ,2016-07-06,Services,Sporting Goods Stores,200.54M,11.90M,1.80%,21.75M,20.31M,4.34%,3.72,6.4,231020,18.47
+2018-01-17,ATEN,A10 Networks Inc. ,2018-03-16,Technology,Communication Equipment,459.19M,-16.60M,14.90%,70.32M,60.23M,2.43%,2.74,5.85,92700,19.97
+2017-12-31,AEO,American Eagle Out ,2018-01-13,Services,Apparel Stores,3.96B,192.10M,0.90%,175.03M,165.57M,8.95%,3.24,12.99,59910,30.9
+2018-02-06,DYN,Dynegy Inc. ,2016-10-07,Utilities,Electric Utilities,1.53B,-991.00M,0.30%,120.00M,116.71M,13.26%,5.66,9.62,695330,18.89
+2018-02-06,PBCT,"People""s United Fi ",2017-10-19,Financial,Savings & Loans,6.35B,280.90M,0.50%,345.89M,342.17M,6.99%,10.69,16.04,109890,15.62
+2018-02-06,FNF,Fnf Group of Fidel ,2018-07-17,Financial,Surety & Title Insurance,10.56B,569.00M,0.60%,283.62M,263.42M,2.90%,7.00,29.47,94570,20.95
+2018-02-06,GNRC,Generac Holdlings ,2016-10-16,Industrial Goods,Diversified Machinery,2.49B,74.30M,0.30%,69.43M,64.40M,10.36%,11.28,40.0,52410,17.17
+2018-02-06,PGR,Progressive Corpor ,2017-10-12,Financial,Property & Casualty Insurance,28.40B,1.37B,0.60%,582.47M,577.84M,1.54%,2.57,40.22,131480,22.58
+2018-02-06,XIV,Velocityshares Dai ,2018-02-07,Financial,Exchange Traded Fund,-,-,-,-,-,-,0.77,15.75,27800000,84.09
+2017-11-07,MHLD,Maiden Holdings Lt ,2019-01-12,Financial,Property & Casualty Insurance,114.66M,-395.30M,0.90%,87.53M,61.65M,2.86%,2.24,7.76,47330,11.37
+2017-11-07,VERI,Veritone Inc. ,2017-08-24,Technology,Application Software,227.45M,-50.00M,,15.60M,11.32M,3.81%,4.01,32.0,40400,12.74
+2017-10-21,DBVT,Dbv Technologies S ,2018-03-16,Healthcare,Diagnostic Substances,542.51M,-,-,24.70M,-,-,4.04,22.65,500540,52.88
+2017-10-07,XLI,Spdr Select Sector ,2017-06-19,Financial,Exchange Traded Fund,-,-,-,-,-,-,3.42,63.82,35920,11.29
+2017-10-07,XLF,Spdr Select Sector ,2017-08-11,Financial,Exchange Traded Fund,-,-,-,-,-,-,-,22.21,147760,15.71
+2017-11-07,CAR,Avis Budget Group ,2017-11-05,Services,Rental & Leasing Services,3.06B,74.00M,2.10%,87.14M,80.85M,40.93%,8.82,36.8,389270,11.15
+2017-10-07,XLK,Spdr Select Sector ,2017-08-22,Financial,Exchange Traded Fund,-,-,-,-,-,-,2.37,46.86,107060,21.84
+2017-10-07,XLB,Materials Select S ,2016-08-01,Financial,Exchange Traded Fund,-,-,-,-,-,-,2.80,48.15,178960,16.85
+2017-09-16,HMNY,Helios and Matheso ,2017-09-19,Technology,Information Technology Services,228.14M,-18.80M,,8.18M,3.30M,22.74%,0.30,3.02,214770,17.71
+2017-09-15,HMNY,Helios and Matheso  ,2017-09-19,Technology,Information Technology Services,228.14M,-18.80M,,8.18M,3.30M,22.74%,0.30,2.98,211610,18.8
+2017-11-07,EXAS,Exact Sciences Cor ,2017-07-03,Healthcare,Medical Laboratories & Research,4.21B,-154.70M,1.50%,119.13M,115.70M,19.04%,6.48,47.42,33320,18.63
+2017-11-07,PCMI,Pcm Inc. ,2016-10-28,Services,"Specialty Retail, Other",256.80M,-7.00M,2.10%,11.71M,6.54M,1.73%,0.51,11.45,32660,19.08
+2017-11-07,RRGB,Red Robin Gourmet ,2017-05-21,Services,Restaurants,954.92M,11.70M,0.60%,13.09M,12.71M,32.90%,9.79,54.25,482740,19.09
+2017-11-07,TRUE,Truecar Inc. ,2015-11-08,Technology,Internet Service Providers,694.46M,-49.80M,18.60%,82.38M,45.79M,33.50%,13.00,11.88,1540000,27.29
+2017-11-07,QTNA,Quantenna Communic ,2017-08-05,Technology,Communication Equipment,656.83M,-1.10M,0.80%,33.77M,29.56M,6.32%,4.62,10.6,99800,28.72
+2017-11-07,TLGT,Teligent Inc. ,2017-11-08,Healthcare,Biotechnology,165.05M,-8.20M,0.68%,55.76M,53.03M,16.67%,17.43,3.5,82930,33.33
+2017-08-15,PLAB,Photronics Inc. ,2017-08-17,Technology,Semiconductor Equipment & Materials,549.27M,17.10M,0.50%,69.09M,67.70M,5.62%,7.10,8.5,69660,13.76
+2017-07-27,CYH,Community Health S  ,2017-08-15,Healthcare,Hospitals,687.22M,-617.00M,3.30%,93.50M,-,-,5.97,7.44,49840,12.06
+2017-07-27,CUR,Neuralstem Inc.  ,2017-07-30,Healthcare,Biotechnology,21.00M,-22.00M,1.70%,12.65M,9.40M,11.32%,5.25,2.05,64920,17.0
+2017-07-16,PPHM,Peregrine Pharmace  ,2017-08-07,Healthcare,Biotechnology,181.58M,-32.80M,0.20%,46.56M,37.30M,1.03%,1.53,4.72,117910,15.41
+2017-07-16,PPHM,Peregrine Pharmace  ,2017-08-07,Healthcare,Biotechnology,181.58M,-32.80M,0.20%,46.56M,37.30M,1.03%,1.53,4.72,117910,15.41
+2017-07-14,CYBR,Cyberark Software  ,2017-07-17,Technology,Business Software & Services,1.77B,31.30M,-,41.51M,32.60M,8.25%,3.92,42.1,826430,17.45
+2017-07-14,ATEN,A10 Networks Inc.  ,2017-08-07,Technology,Communication Equipment,465.32M,-18.60M,17.30%,68.43M,58.37M,1.17%,1.12,6.75,129410,18.08
+2017-06-07,DLTH,Duluth Holdings In  ,2016-04-09,Services,Apparel Stores,687.97M,23.80M,,31.66M,9.45M,7.50%,4.76,18.37,34890,10.7
+2017-05-24,ANW,Aegean Marine Petr  ,2017-05-28,Basic Materials,Major Integrated Oil & Gas,199.00M,43.80M,,39.02M,32.55M,19.35%,9.84,8.55,73480,18.57
+2017-05-05,PBYI,Puma Biotechnology  ,2017-05-19,Healthcare,Biotechnology,1.36B,-277.90M,11.60%,35.25M,31.82M,24.97%,7.16,32.25,114380,11.76
+2017-05-03,PBPB,Potbelly Corporati  ,2016-09-23,Services,Specialty Eateries,333.05M,7.10M,0.70%,25.25M,24.29M,6.51%,9.87,12.25,35330,11.55
+2017-05-02,AMD,Advanced Micro Dev  ,2017-05-08,Technology,Semiconductor - Broad Line,9.87B,-461.00M,0.60%,968.43M,935.34M,12.77%,1.67,12.13,14550000,10.94
+2017-05-02,AMD,Advanced Micro Dev  ,2017-05-08,Technology,Semiconductor - Broad Line,9.87B,-461.00M,0.60%,968.43M,935.34M,12.77%,1.67,12.13,14550000,10.94
+2017-04-30,GNW,Genworth Financial  ,2016-11-08,Financial,Life Insurance,2.07B,-217.00M,0.16%,508.03M,497.29M,4.91%,2.31,3.6,1180000,10.89
+2017-04-28,STNG,Scorpio Tankers In  ,2015-12-25,Services,Shipping,1.43B,184.00M,2.13%,178.03M,162.74M,4.37%,3.18,4.1,149820,10.27
+2017-04-25,VB,Vanguard Small-cap  ,2019-01-11,Financial,Exchange Traded Fund,-,-,-,-,-,-,0.41,116.92,50890,13.03
+2017-04-25,VB,Vanguard Small-cap  ,2019-01-11,Financial,Exchange Traded Fund,-,-,-,-,-,-,0.41,116.92,50890,13.03
+2017-04-25,ESRX,Express Scripts Ho  ,2017-05-09,Healthcare,Health Care Plans,36.84B,3.42B,0.30%,598.04M,591.71M,5.71%,6.88,57.25,4440000,14.87
+2017-04-12,DIS,Walt Disney Compan  ,2017-04-24,Services,Entertainment - Diversified,179.29B,8.99B,0.10%,1.57B,1.51B,1.29%,3.29,92.49,88720,18.2
+2017-04-12,DIS,Walt Disney Compan  ,2017-04-24,Services,Entertainment - Diversified,179.29B,8.99B,0.10%,1.57B,1.51B,1.29%,3.29,92.49,88720,18.2
+2017-04-25,ESRX,Express Scripts Ho  ,2017-05-09,Healthcare,Health Care Plans,36.84B,3.42B,0.30%,598.04M,591.71M,5.71%,6.88,57.25,4440000,14.87
+2017-04-28,ARAY,Accuray Incorporat  ,2018-01-24,Healthcare,Medical Appliances & Equipment,439.66M,-29.00M,4.50%,84.55M,81.09M,6.63%,4.67,4.05,43220,11.96
+2017-04-28,GIMO,Gigamon Inc.  ,2017-05-08,Technology,Networking & Communication Devices,1.26B,44.20M,1.50%,36.12M,32.93M,9.47%,2.46,31.6,40800,12.22
+2017-04-28,CLD,Cloud Peak Energy  ,2016-11-07,Basic Materials,Industrial Metals & Minerals,409.30M,-158.90M,0.10%,62.11M,60.48M,11.72%,4.51,3.0,54630,15.01
+2017-04-28,ATHN,athenahealth Inc.  ,2017-06-15,Technology,Healthcare Information Services,5.65B,20.40M,1.30%,39.60M,39.40M,20.68%,12.14,101.75,334070,16.22
+2017-05-02,SNSS,Sunesis Pharmaceut  ,2016-10-17,Healthcare,Biotechnology,63.80M,-39.10M,0.10%,14.50M,14.36M,1.18%,0.36,3.1,126640,15.3
+2017-05-02,GEO,Geo Group Inc (the  ,2017-05-04,Financial,REIT - Healthcare Facilities,3.97B,148.70M,2.30%,125.41M,120.45M,1.09%,0.79,26.86,32000,18.61
+2017-05-02,HLIT,Harmonic Inc.  ,2016-03-20,Technology,Communication Equipment,280.40M,-15.70M,2.10%,87.08M,85.25M,11.47%,14.41,4.7,50720,18.97
+2017-05-02,SNSS,Sunesis Pharmaceut  ,2016-10-17,Healthcare,Biotechnology,63.80M,-39.10M,0.10%,14.50M,14.36M,1.18%,0.36,3.1,126640,15.3
+2017-05-02,GEO,Geo Group Inc (the  ,2017-05-04,Financial,REIT - Healthcare Facilities,3.97B,148.70M,2.30%,125.41M,120.45M,1.09%,0.79,26.86,32000,18.61
+2017-05-02,HLIT,Harmonic Inc.  ,2016-03-20,Technology,Communication Equipment,280.40M,-15.70M,2.10%,87.08M,85.25M,11.47%,14.41,4.7,50720,18.97
+2017-05-03,LCI,Lannett Co Inc  ,2016-05-04,Healthcare,Drugs - Generic,716.13M,116.90M,8.90%,39.09M,27.26M,35.26%,8.32,23.1,69180,14.92
+2017-05-03,AKAM,Akamai Technologie  ,2017-04-20,Technology,Internet Information Providers,10.32B,316.10M,0.60%,172.92M,168.30M,3.87%,3.11,53.99,533200,13.62
+2017-05-03,ETSY,Etsy Inc.  ,2016-10-13,Services,"Specialty Retail, Other",1.68B,-17.20M,1.00%,111.17M,101.95M,4.41%,2.65,9.51,544850,16.51
+2017-05-03,IPHI,Inphi Corporation  ,2015-03-12,Technology,Semiconductor - Broad Line,655.19M,-22.90M,1.90%,37.10M,37.10M,3.86%,2.64,33.49,811450,17.39
+2017-05-03,TWLO,Twilio Inc. Class A  ,2017-05-08,Technology,Application Software,2.17B,-49.10M,-,90.42M,53.76M,31.58%,4.43,23.71,5650000,30.14
+2017-05-05,APHB,Ampliphi Bioscienc  ,2017-05-04,Healthcare,Biotechnology,3.15M,-24.30M,0.10%,1.77M,1.47M,60.77%,2.56,2.52,185710,13.1
+2017-05-05,BJRI,"Bj""s Restaurants I  ",2018-04-13,Services,Restaurants,1.01B,29.10M,1.50%,20.73M,19.22M,6.07%,3.14,35.11,40480,23.52
+2017-04-10,YUMC,Yum China Holdings  ,2017-07-04,Services,Restaurants,15.61B,532.00M,0.10%,387.53M,383.91M,0.93%,1.09,26.4,434900,15.25
+2017-04-10,YUMC,Yum China Holdings  ,2017-07-04,Services,Restaurants,15.61B,532.00M,0.10%,387.53M,383.91M,0.93%,1.09,26.4,434900,15.25
+2017-04-06,SYNC,Synacor Inc.  ,2016-09-12,Technology,Internet Information Providers,85.09M,-5.60M,0.20%,30.72M,25.08M,4.21%,2.75,3.71,51260,10.72
+2017-04-06,SYNC,Synacor Inc.  ,2016-09-12,Technology,Internet Information Providers,85.09M,-5.60M,0.20%,30.72M,25.08M,4.21%,2.75,3.71,51260,10.72
+2017-04-06,CAFD,8point3 Energy Par  ,2017-07-01,Utilities,Diversified Utilities,1.17B,22.70M,0.10%,77.43M,27.99M,7.74%,6.66,11.75,72170,11.05
+2017-03-29,PTX,Pernix Therapeutic  ,2017-05-12,Healthcare,Drug Manufacturers - Other,57.69M,-169.60M,0.10%,9.66M,9.08M,15.98%,1.74,3.65,26530,10.1
+2017-03-30,TNXP,Tonix Pharmaceutic  ,2017-04-01,Healthcare,Drug Manufacturers - Major,17.79M,-44.70M,2.10%,3.81M,3.81M,89.58%,1.96,4.71,647570,15.44
+2017-03-29,PTX,Pernix Therapeutic  ,2017-05-12,Healthcare,Drug Manufacturers - Other,57.69M,-169.60M,0.10%,9.66M,9.08M,15.98%,1.74,3.65,26530,10.1
+2017-03-30,LULU,lululemon athletic  ,2017-04-01,Consumer Goods,Textile - Apparel Clothing,7.04B,284.70M,8.16%,135.77M,106.87M,8.98%,3.98,54.6,4130000,17.65
+2017-03-17,ERII,Energy Recovery In  ,2016-02-03,Industrial Goods,Pollution & Treatment Controls,305.55M,-16.90M,3.10%,52.23M,30.31M,10.20%,5.40,7.45,27790,11.73
+2017-04-06,CAFD,8point3 Energy Par  ,2017-07-01,Utilities,Diversified Utilities,1.17B,22.70M,0.10%,77.43M,27.99M,7.74%,6.66,11.75,72170,11.05
+2017-03-17,ERII,Energy Recovery In  ,2016-02-03,Industrial Goods,Pollution & Treatment Controls,305.55M,-16.90M,3.10%,52.23M,30.31M,10.20%,5.40,7.45,27790,11.73
+2017-03-16,GES,Guess? Inc.  ,2017-05-28,Services,Apparel Stores,952.16M,22.20M,1.20%,81.59M,56.64M,16.95%,5.41,10.73,317180,12.26
+2017-03-16,ARTX,Arotech Corporation  ,2016-04-24,Industrial Goods,Industrial Electrical Equipment,100.80M,-2.90M,11.30%,24.89M,19.48M,3.70%,3.15,3.36,36200,18.17
+2017-03-09,SPPI,Spectrum Pharmaceu  ,2017-12-19,Healthcare,Biotechnology,1.97B,-79.60M,2.00%,98.66M,92.61M,8.76%,4.26,5.5,47200,12.42
+2017-03-08,CL,Colgate-palmolive  ,2017-05-04,Consumer Goods,Personal Products,63.95B,2.44B,0.30%,899.66M,881.29M,1.08%,2.33,66.01,126210,10.46
+2017-03-08,CL,Colgate-palmolive  ,2017-05-04,Consumer Goods,Personal Products,63.95B,2.44B,0.30%,899.66M,881.29M,1.08%,2.33,66.01,126210,10.46
+2017-03-06,BABA,Alibaba Group Hold  ,2017-03-28,Services,"Specialty Retail, Other",267.90B,5.58B,-,2.48B,752.26M,14.90%,11.72,92.88,34100,10.1
+2017-03-06,BABA,Alibaba Group Hold  ,2017-03-28,Services,"Specialty Retail, Other",267.90B,5.58B,-,2.48B,752.26M,14.90%,11.72,92.88,34100,10.1
+2017-02-18,DRYS,Dryships Inc.  ,2017-05-08,Services,Shipping,48.31M,-198.70M,-,48.80M,48.80M,12.71%,0.22,3.38,2760000,24.38
+2017-02-15,NAII,Natural Alternativ  ,2016-03-18,Healthcare,Drug Related Products,83.61M,4.90M,4.30%,6.77M,3.88M,1.29%,0.70,9.7,33090,11.42
+2017-02-15,NAII,Natural Alternativ  ,2016-03-18,Healthcare,Drug Related Products,83.61M,4.90M,4.30%,6.77M,3.88M,1.29%,0.70,9.7,33090,11.42
+2017-02-15,FOSL,Fossil Group Inc.  ,2016-05-31,Consumer Goods,Textile - Apparel Footwear & Accessories,1.33B,188.40M,11.60%,47.85M,41.41M,19.05%,5.68,19.52,1760000,14.65
+2017-02-14,AMKR,Amkor Technology I  ,2015-12-18,Technology,Semiconductor - Integrated Circuits,1.50B,79.60M,1.80%,237.37M,98.48M,3.16%,2.58,9.3,1760000,10.92
+2017-02-15,FOSL,Fossil Group Inc.  ,2016-05-31,Consumer Goods,Textile - Apparel Footwear & Accessories,1.33B,188.40M,11.60%,47.85M,41.41M,19.05%,5.68,19.52,1760000,14.65
+2017-03-08,HIIQ,Health Insurance I  ,2016-12-29,Healthcare,Health Care Plans,242.54M,4.80M,10.60%,13.29M,6.36M,16.37%,2.51,15.2,44350,12.39
+2017-03-08,HIIQ,Health Insurance I  ,2016-12-29,Healthcare,Health Care Plans,242.54M,4.80M,10.60%,13.29M,6.36M,16.37%,2.51,15.2,44350,12.39
+2017-03-09,TLRD,Tailored Brands In  ,2016-12-11,Services,Apparel Stores,1.32B,-1002.70M,0.80%,48.66M,48.11M,20.10%,7.82,16.78,829540,28.2
+2017-02-08,XLK,Spdr Select Sector  ,2017-08-22,Financial,Exchange Traded Fund,-,-,-,-,-,-,2.37,43.44,556390,14.69
+2017-02-08,XLK,Spdr Select Sector  ,2017-08-22,Financial,Exchange Traded Fund,-,-,-,-,-,-,2.37,43.44,556390,14.69
+2017-02-03,BNTC,Benitec Biopharma  ,2017-01-24,Healthcare,Biotechnology,278.41M,-,-,146.53M,6.18M,0.14%,0.05,3.35,144260,10.67
+2017-02-03,BNTC,Benitec Biopharma  ,2017-01-24,Healthcare,Biotechnology,278.41M,-,-,146.53M,6.18M,0.14%,0.05,3.35,144260,10.67
+2017-02-01,SGYP,Synergy Pharmaceut  ,2017-02-03,Healthcare,Drug Manufacturers - Other,1.14B,-169.20M,7.01%,179.95M,172.08M,15.91%,4.51,6.14,4390000,13.15
+2017-02-01,SGYP,Synergy Pharmaceut  ,2017-02-03,Healthcare,Drug Manufacturers - Other,1.14B,-169.20M,7.01%,179.95M,172.08M,15.91%,4.51,6.14,4390000,13.15
+2017-02-01,SGYP,Synergy Pharmaceut  ,2017-02-03,Healthcare,Drug Manufacturers - Other,1.14B,-169.20M,7.01%,179.95M,172.08M,15.91%,4.51,6.14,4390000,13.15
+2017-02-01,MRO,Marathon Oil Corpo  ,2017-03-26,Basic Materials,Independent Oil & Gas,12.38B,-2140.00M,0.20%,847.20M,845.33M,5.10%,3.59,14.09,289500,15.88
+2017-02-01,MRO,Marathon Oil Corpo  ,2017-03-26,Basic Materials,Independent Oil & Gas,12.38B,-2140.00M,0.20%,847.20M,845.33M,5.10%,3.59,14.09,289500,15.88
+2017-02-01,MRO,Marathon Oil Corpo  ,2017-03-26,Basic Materials,Independent Oil & Gas,12.38B,-2140.00M,0.20%,847.20M,845.33M,5.10%,3.59,14.09,289500,15.88
+2017-02-03,GPRO,Gopro Inc.  ,2017-02-05,Consumer Goods,Photographic Equipment & Supplies,1.35B,-337.70M,0.40%,140.57M,100.62M,33.16%,7.30,9.69,1160000,11.67
+2017-02-03,NEOS,Neos Therapeutics  ,2016-05-04,Healthcare,Drugs - Generic,148.67M,-33.20M,9.70%,16.50M,12.13M,8.09%,10.36,5.1,28530,12.07
+2017-02-03,CY,Cypress Semiconduc  ,2014-12-02,Technology,Semiconductor - Broad Line,1.68B,0.90M,5.60%,161.24M,149.14M,7.61%,4.48,10.25,74120,13.5
+2017-02-03,GIMO,Gigamon Inc.  ,2017-01-22,Technology,Networking & Communication Devices,1.23B,45.60M,1.30%,36.05M,32.36M,9.08%,2.71,26.75,385970,16.67
+2017-02-03,IDXG,Interpace Diagnost  ,2016-12-10,Services,Business Services,24.11M,-26.10M,1.10%,17.86M,11.33M,0.88%,0.05,3.5,137660,18.98
+2017-02-03,DECK,Deckers Outdoor Co  ,2017-02-10,Consumer Goods,Textile - Apparel Footwear & Accessories,2.00B,-2.30M,1.80%,38.22M,31.79M,14.90%,4.21,42.8,431170,22.94
+2017-02-03,FEYE,Fireeye Inc.  ,2017-01-07,Technology,Application Software,2.13B,-554.70M,0.30%,169.95M,154.06M,13.85%,4.96,10.69,3350000,17.58
+2017-02-03,GPRO,Gopro Inc.  ,2017-02-05,Consumer Goods,Photographic Equipment & Supplies,1.35B,-337.70M,0.40%,140.57M,100.62M,33.16%,7.30,9.69,1160000,11.67
+2017-02-03,NEOS,Neos Therapeutics  ,2016-05-04,Healthcare,Drugs - Generic,148.67M,-33.20M,9.70%,16.50M,12.13M,8.09%,10.36,5.1,28530,12.07
+2017-02-03,CY,Cypress Semiconduc  ,2014-12-02,Technology,Semiconductor - Broad Line,1.68B,0.90M,5.60%,161.24M,149.14M,7.61%,4.48,10.25,74120,13.5
+2017-02-03,GIMO,Gigamon Inc.  ,2017-01-22,Technology,Networking & Communication Devices,1.23B,45.60M,1.30%,36.05M,32.36M,9.08%,2.71,26.75,385970,16.67
+2017-02-03,FEYE,Fireeye Inc.  ,2017-01-07,Technology,Application Software,2.13B,-554.70M,0.30%,169.95M,154.06M,13.85%,4.96,10.69,3350000,17.58
+2017-02-03,IDXG,Interpace Diagnost  ,2016-12-10,Services,Business Services,24.11M,-26.10M,1.10%,17.86M,11.33M,0.88%,0.05,3.5,137660,18.98
+2017-02-03,DECK,Deckers Outdoor Co  ,2017-02-10,Consumer Goods,Textile - Apparel Footwear & Accessories,2.00B,-2.30M,1.80%,38.22M,31.79M,14.90%,4.21,42.8,431170,22.94
+2017-01-27,PER,Sandridge Permian  ,2018-03-23,Basic Materials,Independent Oil & Gas,102.38M,24.30M,25.00%,52.50M,39.38M,0.39%,0.70,3.4,26980,13.92
+2017-01-26,MAT,Mattel Inc.  ,2017-04-24,Consumer Goods,Toys & Games,7.40B,316.60M,0.10%,342.65M,341.47M,6.33%,3.66,28.33,1110000,10.23
+2017-01-26,MAT,Mattel Inc.  ,2017-04-24,Consumer Goods,Toys & Games,7.40B,316.60M,0.10%,342.65M,341.47M,6.33%,3.66,28.33,1110000,10.23
+2017-01-19,RCII,Rent-a-center Inc.  ,2015-10-28,Services,Rental & Leasing Services,958.26M,100.50M,2.70%,53.06M,51.64M,15.67%,10.37,8.93,41780,12.37
+2017-01-19,RCII,Rent-a-center Inc.  ,2015-10-28,Services,Rental & Leasing Services,958.26M,100.50M,2.70%,53.06M,51.64M,15.67%,10.37,8.93,41780,12.37
+2017-01-16,GLBS,Globus Maritime Li  ,2017-01-16,Services,Shipping,7.96M,-26.10M,-,1.10M,1.06M,7.33%,0.12,4.93,220400,31.91
+2017-01-16,GLBS,Globus Maritime Li  ,2017-01-16,Services,Shipping,7.96M,-26.10M,-,1.10M,1.06M,7.33%,0.12,4.93,220400,31.91
+2017-01-13,URRE,Uranium Resources  ,2017-01-12,Basic Materials,Industrial Metals & Minerals,44.34M,-19.80M,0.20%,13.90M,13.34M,7.14%,0.55,2.55,261990,18.53
+2017-01-13,URRE,Uranium Resources  ,2017-01-12,Basic Materials,Industrial Metals & Minerals,44.34M,-19.80M,0.20%,13.90M,13.34M,7.14%,0.55,2.55,261990,18.53
+2017-01-09,SSI,Stage Stores Inc.  ,2017-03-07,Services,Apparel Stores,55.53M,-,5.30%,25.95M,25.37M,24.72%,4.67,3.56,41570,11.0
+2017-01-09,SSI,Stage Stores Inc.  ,2017-03-07,Services,Apparel Stores,55.53M,-,5.30%,25.95M,25.37M,24.72%,4.67,3.56,41570,11.0
+2017-01-06,RT,Ruby Tuesday Inc.  ,2017-03-18,Services,Restaurants,153.15M,-108.30M,2.10%,61.26M,58.13M,8.99%,6.28,2.97,35720,15.86
+2017-01-05,M,"Macy""s Inc  ",2017-01-07,Services,Department Stores,9.55B,688.00M,0.30%,309.77M,304.02M,4.21%,2.02,32.0,1700000,10.71
+2017-01-05,M,"Macy""s Inc  ",2017-01-07,Services,Department Stores,9.55B,688.00M,0.30%,309.77M,304.02M,4.21%,2.02,32.0,1700000,10.71
+2017-01-05,KSS,"Kohl""s Corporation  ",2017-01-08,Services,Department Stores,7.41B,599.00M,0.50%,178.90M,174.45M,13.97%,5.64,44.13,1650000,14.94
+2017-01-05,KSS,"Kohl""s Corporation  ",2017-01-08,Services,Department Stores,7.41B,599.00M,0.50%,178.90M,174.45M,13.97%,5.64,44.13,1650000,14.94
+2017-01-05,BAS,Basic Energy Servi  ,2016-12-24,Basic Materials,Oil & Gas Equipment & Services,18.67M,-320.50M,1.50%,41.47M,40.69M,8.00%,0.84,30.61,202350,16.39
+2017-01-05,BAS,Basic Energy Servi  ,2016-12-24,Basic Materials,Oil & Gas Equipment & Services,18.67M,-320.50M,1.50%,41.47M,40.69M,8.00%,0.84,30.61,202350,16.39
+2017-01-05,AEZS,Aeterna Zentaris I  ,2017-02-03,Healthcare,Biotechnology,36.36M,-26.80M,0.60%,11.92M,11.61M,6.55%,2.30,2.15,139400,41.1
+2017-01-05,AEZS,Aeterna Zentaris I  ,2017-02-03,Healthcare,Biotechnology,36.36M,-26.80M,0.60%,11.92M,11.61M,6.55%,2.30,2.15,139400,41.1
+2016-12-22,RHT,Red Hat Inc.  ,2016-12-25,Technology,Application Software,12.83B,219.80M,0.60%,180.63M,178.12M,3.06%,3.65,71.51,725330,10.38
+2016-12-22,OVAS,Ovascience Inc.  ,2017-06-26,Healthcare,Biotechnology,47.71M,-75.40M,0.90%,27.42M,-,-,9.07,2.07,117680,30.3
+2016-12-15,FOLD,Amicus Therapeutic  ,2017-02-05,Healthcare,Biotechnology,821.24M,-184.30M,1.00%,142.33M,140.57M,20.44%,7.78,5.23,95700,10.6
+2016-12-15,FOLD,Amicus Therapeutic  ,2017-02-05,Healthcare,Biotechnology,821.24M,-184.30M,1.00%,142.33M,140.57M,20.44%,7.78,5.23,95700,10.6
+2016-12-15,SGY,Stone Energy Corpo  ,2016-11-08,Basic Materials,Independent Oil & Gas,23.16M,-995.20M,2.50%,5.76M,4.87M,33.80%,1.89,4.71,66390,23.29
+2016-12-15,SGY,Stone Energy Corpo  ,2016-11-08,Basic Materials,Independent Oil & Gas,23.16M,-995.20M,2.50%,5.76M,4.87M,33.80%,1.89,4.71,66390,23.29
+2016-12-08,VRNT,Verint Systems Inc.  ,2016-10-11,Technology,Business Software & Services,2.34B,-4.00M,1.70%,63.92M,62.25M,3.63%,4.87,34.0,101430,11.23
+2016-12-08,VRNT,Verint Systems Inc.  ,2016-10-11,Technology,Business Software & Services,2.34B,-4.00M,1.70%,63.92M,62.25M,3.63%,4.87,34.0,101430,11.23
+2016-12-02,WDAY,Workday Inc.  ,2016-12-09,Technology,Application Software,16.33B,-347.60M,1.40%,227.43M,42.80M,31.24%,7.77,72.15,678430,11.58
+2016-12-02,WDAY,Workday Inc.  ,2016-12-09,Technology,Application Software,16.33B,-347.60M,1.40%,227.43M,42.80M,31.24%,7.77,72.15,678430,11.58
+2016-11-25,JUNO,Juno Therapeutics  ,2016-11-27,Healthcare,Biotechnology,2.49B,-278.00M,4.30%,108.28M,78.46M,14.64%,6.57,18.37,57300,18.57
+2016-11-25,JUNO,Juno Therapeutics  ,2016-11-27,Healthcare,Biotechnology,2.49B,-278.00M,4.30%,108.28M,78.46M,14.64%,6.57,18.37,57300,18.57
+2016-11-25,JUNO,Juno Therapeutics  ,2016-11-27,Healthcare,Biotechnology,2.49B,-278.00M,4.30%,108.28M,78.46M,14.64%,6.57,18.37,57300,18.57
+2016-12-07,SIGM,Sigma Designs Inc.  ,2016-09-07,Technology,Semiconductor - Specialized,308.01M,-7.60M,1.40%,37.11M,36.15M,6.13%,7.41,6.35,58250,18.06
+2016-12-07,GS,Goldman Sachs Grou  ,2016-12-03,Financial,Investment Brokerage - National,88.82B,5.51B,0.70%,397.65M,389.69M,1.54%,1.81,178.09,49240,23.03
+2016-11-23,NMBL,Nimble Storage Inc.  ,2016-09-05,Technology,Data Storage Devices,688.81M,-143.60M,3.00%,82.79M,63.10M,5.75%,3.45,8.14,40250,11.9
+2016-11-11,PLAB,Photronics Inc.  ,2017-05-19,Technology,Semiconductor Equipment & Materials,730.98M,27.10M,1.10%,69.95M,67.48M,5.82%,11.27,8.2,27840,23.72
+2016-11-09,TRIP,Tripadvisor Inc.  ,2016-08-19,Technology,Internet Information Providers,9.05B,138.00M,0.40%,145.40M,114.25M,13.23%,7.64,54.75,1170000,13.23
+2016-11-09,TRIP,Tripadvisor Inc.  ,2016-08-19,Technology,Internet Information Providers,9.05B,138.00M,0.40%,145.40M,114.25M,13.23%,7.64,54.75,1170000,13.23
+2016-11-02,DHT,Dht Holdings Inc.  ,2016-12-07,Services,Shipping,330.54M,23.90M,0.20%,93.11M,90.70M,13.18%,5.22,3.55,299740,10.8
+2016-11-01,INST,Instructure Inc.  ,2019-06-26,Technology,Application Software,1.45B,-47.70M,0.90%,36.57M,30.66M,10.10%,8.80,20.95,169830,17.68
+2016-11-02,FTV,Fortive Corporation  ,2016-10-29,Technology,Scientific & Technical Instruments,17.36B,853.60M,1.80%,345.79M,304.39M,1.28%,2.51,40.49,124540,19.81
+2016-11-02,ZAGG,Zagg Inc  ,2018-01-17,Services,"Specialty Retail, Other",434.45M,2.90M,3.40%,28.12M,26.85M,6.09%,1.79,5.45,51300,19.85
+2016-11-02,ADPT,Adeptus Health Inc.  ,2016-11-05,Healthcare,Hospitals,184.57M,93.50M,0.10%,21.74M,9.26M,82.54%,8.86,13.54,1320000,49.61
+2016-10-28,CENX,Century Aluminum C  ,2017-01-26,Basic Materials,Aluminum,1.31B,-115.40M,,84.04M,49.19M,27.22%,5.12,6.8,106500,10.99
+2016-11-23,NMBL,Nimble Storage Inc.  ,2016-09-05,Technology,Data Storage Devices,688.81M,-143.60M,3.00%,82.79M,63.10M,5.75%,3.45,8.14,40250,11.9
+2016-10-28,SYNA,Synaptics Incorpor  ,2017-06-22,Technology,Application Software,2.01B,23.90M,0.60%,34.71M,33.98M,17.46%,7.77,59.95,92550,11.45
+2016-10-28,MCK,Mckesson Corporati  ,2016-11-02,Services,Drugs Wholesale,29.16B,2.36B,0.29%,225.60M,224.38M,2.06%,2.18,140.55,230190,12.43
+2016-10-28,CEMP,Cempra Inc.  ,2016-11-13,Healthcare,Biotechnology,336.82M,-107.70M,20.24%,50.65M,50.65M,17.65%,5.03,20.2,115710,13.82
+2016-10-28,YRCW,Yrc Worldwide Inc.  ,2016-10-31,Services,Trucking,292.86M,11.40M,4.50%,32.98M,32.37M,11.42%,6.61,11.09,92380,18.03
+2016-11-11,CXW,Corecivic Inc.  ,2016-11-27,Financial,REIT - Diversified,2.58B,207.80M,0.30%,117.44M,116.40M,7.22%,2.42,14.19,189700,28.37
+2016-10-28,CENX,Century Aluminum C  ,2017-01-26,Basic Materials,Aluminum,1.31B,-115.40M,,84.04M,49.19M,27.22%,5.12,6.8,106500,10.99
+2016-10-27,INFN,Infinera Corporati  ,2016-10-21,Technology,Communication Equipment,1.27B,44.60M,0.30%,142.70M,140.39M,7.47%,3.74,8.24,127080,10.73
+2016-10-26,WFT,Weatherford Intern  ,2016-11-14,Basic Materials,Oil & Gas Equipment & Services,4.26B,-4051.00M,0.70%,895.33M,890.14M,9.03%,3.32,5.5,393410,10.71
+2016-10-26,CR,Crane Company  ,2016-02-19,Industrial Goods,Diversified Machinery,2.84B,229.00M,0.80%,58.07M,49.44M,1.22%,1.46,60.53,40760,10.13
+2016-10-26,CR,Crane Company  ,2016-02-19,Industrial Goods,Diversified Machinery,2.84B,229.00M,0.80%,58.07M,49.44M,1.22%,1.46,60.53,40760,10.13
+2016-10-26,WFT,Weatherford Intern  ,2016-11-14,Basic Materials,Oil & Gas Equipment & Services,4.26B,-4051.00M,0.70%,895.33M,890.14M,9.03%,3.32,5.5,393410,10.71
+2016-10-26,NUVA,Nuvasive Inc.  ,2014-03-01,Healthcare,Medical Appliances & Equipment,1.64B,-0.90M,1.70%,44.57M,43.27M,4.28%,4.45,57.3,100270,12.43
+2016-10-26,CR,Crane Company  ,2016-02-19,Industrial Goods,Diversified Machinery,2.84B,229.00M,0.80%,58.07M,49.44M,1.22%,1.46,60.53,40760,10.13
+2016-10-26,WFT,Weatherford Intern  ,2016-11-14,Basic Materials,Oil & Gas Equipment & Services,4.26B,-4051.00M,0.70%,895.33M,890.14M,9.03%,3.32,5.5,393410,10.71
+2016-10-26,EW,Edwards Lifescienc  ,2016-08-11,Healthcare,Medical Appliances & Equipment,24.40B,528.40M,0.40%,214.01M,211.29M,1.70%,2.16,98.05,1190000,13.75
+2016-10-25,SONC,Sonic Corp.  ,2016-06-16,Services,Restaurants,1.46B,70.00M,3.00%,49.50M,46.56M,9.56%,4.12,23.48,425150,11.36
+2016-10-26,NUVA,Nuvasive Inc.  ,2014-03-01,Healthcare,Medical Appliances & Equipment,1.64B,-0.90M,1.70%,44.57M,43.27M,4.28%,4.45,57.3,100270,12.43
+2016-10-26,EW,Edwards Lifescienc  ,2016-08-11,Healthcare,Medical Appliances & Equipment,24.40B,528.40M,0.40%,214.01M,211.29M,1.70%,2.16,98.05,1190000,13.75
+2016-10-26,GEF,Greif Inc. Class A  ,2016-03-22,Consumer Goods,Packaging & Containers,1.83B,30.70M,2.20%,58.09M,30.76M,12.04%,8.49,36.73,29630,22.28
+2016-10-26,RRD,R.r. Donnelley & S  ,2016-11-10,Services,Business Services,1.23B,110.60M,0.70%,75.16M,68.81M,6.13%,1.79,13.98,290220,26.76
+2016-10-26,GEF,Greif Inc. Class A  ,2016-03-22,Consumer Goods,Packaging & Containers,1.83B,30.70M,2.20%,58.09M,30.76M,12.04%,8.49,36.73,29630,22.28
+2016-10-26,RRD,R.r. Donnelley & S  ,2016-11-10,Services,Business Services,1.23B,110.60M,0.70%,75.16M,68.81M,6.13%,1.79,13.98,290220,26.76
+2016-10-26,NUVA,Nuvasive Inc.  ,2014-03-01,Healthcare,Medical Appliances & Equipment,1.64B,-0.90M,1.70%,44.57M,43.27M,4.28%,4.45,57.3,100270,12.43
+2016-10-26,EW,Edwards Lifescienc  ,2016-08-11,Healthcare,Medical Appliances & Equipment,24.40B,528.40M,0.40%,214.01M,211.29M,1.70%,2.16,98.05,1190000,13.75
+2016-10-26,GEF,Greif Inc. Class A  ,2016-03-22,Consumer Goods,Packaging & Containers,1.83B,30.70M,2.20%,58.09M,30.76M,12.04%,8.49,36.73,29630,22.28
+2016-10-26,RRD,R.r. Donnelley & S  ,2016-11-10,Services,Business Services,1.23B,110.60M,0.70%,75.16M,68.81M,6.13%,1.79,13.98,290220,26.76
+2016-10-27,GRPN,Groupon Inc.  ,2016-11-08,Technology,Internet Information Providers,2.19B,-177.90M,0.90%,559.01M,398.77M,11.16%,5.57,4.68,1980000,11.03
+2016-10-27,CYH,Community Health S  ,2016-10-28,Healthcare,Hospitals,600.04M,-1433.00M,0.20%,114.73M,109.17M,28.01%,5.36,8.3,50120,17.25
+2016-10-28,SYNA,Synaptics Incorpor  ,2017-06-22,Technology,Application Software,2.01B,23.90M,0.60%,34.71M,33.98M,17.46%,7.77,59.95,92550,11.45
+2016-10-28,MCK,Mckesson Corporati  ,2016-11-02,Services,Drugs Wholesale,29.16B,2.36B,0.29%,225.60M,224.38M,2.06%,2.18,140.55,230190,12.43
+2016-10-28,CEMP,Cempra Inc.  ,2016-11-13,Healthcare,Biotechnology,336.82M,-107.70M,20.24%,50.65M,50.65M,17.65%,5.03,20.2,115710,13.82
+2016-10-28,YRCW,Yrc Worldwide Inc.  ,2016-10-31,Services,Trucking,292.86M,11.40M,4.50%,32.98M,32.37M,11.42%,6.61,11.09,92380,18.03
+2016-10-24,TDW,Tidewater Inc.  ,2016-11-08,Basic Materials,Oil & Gas Equipment & Services,73.90M,-234.20M,1.94%,49.60M,46.63M,36.82%,9.07,2.6,37340,13.04
+2016-10-21,MBRX,Moleculin Biotech  ,2016-10-22,Healthcare,Biotechnology,50.48M,-,,14.30M,6.85M,1.10%,1.21,3.85,73680,11.09
+2016-10-21,MBRX,Moleculin Biotech  ,2016-10-22,Healthcare,Biotechnology,50.48M,-,,14.30M,6.85M,1.10%,1.21,3.85,73680,11.09
+2016-10-21,SKX,Skechers U.s.a. In  ,2016-10-07,Consumer Goods,Textile - Apparel Footwear & Accessories,3.45B,267.80M,1.20%,151.04M,130.17M,8.37%,3.25,19.46,1270000,15.17
+2016-10-19,SGMO,Sangamo Bioscience  ,2016-04-24,Healthcare,Biotechnology,510.43M,-40.70M,1.10%,71.69M,68.51M,15.52%,11.09,2.96,32550,24.23
+2016-10-19,SGMO,Sangamo Bioscience  ,2016-04-24,Healthcare,Biotechnology,510.43M,-40.70M,1.10%,71.69M,68.51M,15.52%,11.09,2.96,32550,24.23
+2016-10-20,ONVO,Organovo Holdings  ,2016-10-24,Healthcare,Medical Laboratories & Research,273.50M,-38.90M,8.00%,91.78M,84.52M,16.62%,13.23,3.1,281210,11.17
+2016-10-20,DXPE,Dxp Enterprises In  ,2016-10-17,Services,Industrial Equipment Wholesale,418.47M,-55.40M,1.70%,14.48M,13.17M,12.56%,6.03,24.35,49260,16.09
+2016-10-21,SKX,Skechers U.s.a. In  ,2016-10-07,Consumer Goods,Textile - Apparel Footwear & Accessories,3.45B,267.80M,1.20%,151.04M,130.17M,8.37%,3.25,19.46,1270000,15.17
+2016-10-14,EGLT,Egalet Corporation  ,2017-01-12,Healthcare,Biotechnology,152.39M,-76.00M,1.80%,25.44M,21.99M,33.85%,8.91,6.65,132820,11.57
+2016-10-14,EGLT,Egalet Corporation  ,2017-01-12,Healthcare,Biotechnology,152.39M,-76.00M,1.80%,25.44M,21.99M,33.85%,8.91,6.65,132820,11.57
+2016-10-20,SCSS,Select Comfort Cor  ,2016-05-13,Consumer Goods,Home Furnishings & Fixtures,1.11B,34.70M,0.90%,47.09M,46.84M,11.76%,5.09,17.95,279850,16.82
+2016-10-25,SONC,Sonic Corp.  ,2016-06-16,Services,Restaurants,1.46B,70.00M,3.00%,49.50M,46.56M,9.56%,4.12,23.48,425150,11.36
+2016-10-24,TDW,Tidewater Inc.  ,2016-11-08,Basic Materials,Oil & Gas Equipment & Services,73.90M,-234.20M,1.94%,49.60M,46.63M,36.82%,9.07,2.6,37340,13.04
+2016-10-06,STM,Stmicroelectronics  ,2020-02-27,Technology,Semiconductor - Broad Line,26.44B,1.03B,28.40%,926.35M,639.47M,1.14%,3.07,7.0,27940,13.26
+2016-10-13,TGTX,TG Therapeutics In  ,2017-03-08,Healthcare,Biotechnology,581.49M,-72.20M,19.50%,57.29M,40.91M,14.15%,4.99,6.99,32510,15.27
+2016-10-13,TGTX,TG Therapeutics In  ,2017-03-08,Healthcare,Biotechnology,581.49M,-72.20M,19.50%,57.29M,40.91M,14.15%,4.99,6.99,32510,15.27
+2016-10-12,FTNT,Fortinet Inc.  ,2017-05-02,Technology,Application Software,7.11B,32.20M,10.90%,181.70M,146.85M,3.75%,2.81,29.4,1250000,13.76
+2016-10-11,ILMN,Illumina Inc.  ,2016-10-14,Healthcare,Biotechnology,20.16B,432.70M,1.00%,146.95M,145.10M,3.47%,4.14,139.25,1090000,24.67
+2016-10-12,FTNT,Fortinet Inc.  ,2017-05-02,Technology,Application Software,7.11B,32.20M,10.90%,181.70M,146.85M,3.75%,2.81,29.4,1250000,13.76
+2016-10-06,MDCO,The Medicines Comp  ,2015-11-08,Healthcare,Drugs - Generic,2.64B,-63.60M,1.30%,66.77M,65.81M,21.05%,7.40,34.5,420390,10.41
+2016-10-06,IDRA,Idera Pharmaceutic  ,2016-10-16,Healthcare,Biotechnology,235.49M,-49.70M,0.80%,132.30M,102.05M,13.13%,12.18,2.24,220600,14.18
+2016-10-06,ALNY,Alnylam Pharmaceut  ,2016-10-06,Healthcare,Biotechnology,6.22B,-360.60M,0.20%,88.46M,71.15M,11.15%,12.39,40.95,1390000,41.75
+2016-09-27,ECH,ishares Msci Chile  ,2020-02-27,Financial,Exchange Traded Fund,-,-,-,-,-,-,-,33.0,51230,10.91
+2016-10-05,TWX,Time Warner Inc.  ,2016-10-23,Services,Entertainment - Diversified,69.47B,4.01B,0.10%,776.38M,775.61M,1.49%,3.13,66.35,29810,16.2
+2016-10-05,TWX,Time Warner Inc.  ,2016-10-23,Services,Entertainment - Diversified,69.47B,4.01B,0.10%,776.38M,775.61M,1.49%,3.13,66.35,29810,16.2
+2016-10-05,IDRA,Idera Pharmaceutic  ,2016-10-16,Healthcare,Biotechnology,235.49M,-49.70M,0.80%,132.30M,102.05M,13.13%,12.18,2.3,209830,11.88
+2016-09-30,ABUS,Arbutus Biopharma  ,2016-07-11,Healthcare,Biotechnology,217.98M,-65.00M,0.50%,55.75M,33.09M,3.83%,7.16,3.5,352830,10.03
+2016-09-30,ABUS,Arbutus Biopharma  ,2016-07-11,Healthcare,Biotechnology,217.98M,-65.00M,0.50%,55.75M,33.09M,3.83%,7.16,3.5,352830,10.03
+2016-09-29,C,Citigroup Inc.  ,2016-10-06,Financial,Money Center Banks,141.85B,14.04B,0.11%,2.92B,2.90B,1.01%,1.61,40.43,512410,13.74
+2016-09-28,TPX,Tempur Sealy Inter  ,2017-05-15,Consumer Goods,Home Furnishings & Fixtures,2.65B,196.40M,1.50%,54.57M,53.16M,22.28%,8.18,56.5,1250000,24.11
+2016-09-28,TPX,Tempur Sealy Inter  ,2017-05-15,Consumer Goods,Home Furnishings & Fixtures,2.65B,196.40M,1.50%,54.57M,53.16M,22.28%,8.18,56.5,1250000,24.11
+2016-10-05,MDCO,The Medicines Comp  ,2015-11-08,Healthcare,Drugs - Generic,2.64B,-63.60M,1.30%,66.77M,65.81M,21.05%,7.40,34.0,335460,11.71
+2016-10-05,STM,Stmicroelectronics  ,2020-02-27,Technology,Semiconductor - Broad Line,26.44B,1.03B,28.40%,926.35M,639.47M,1.14%,3.07,7.0,27940,13.26
+2016-09-30,CAMP,Calamp Corp.  ,2016-09-30,Technology,Wireless Communications,603.07M,10.20M,3.30%,36.75M,35.44M,11.08%,9.72,14.29,249220,12.92
+2016-09-29,BABA,Alibaba Group Hold  ,2016-09-25,Services,"Specialty Retail, Other",265.98B,7.22B,-,2.47B,752.26M,14.42%,6.74,90.6,197650,16.69
+2016-09-30,CAMP,Calamp Corp.  ,2016-09-30,Technology,Wireless Communications,603.07M,10.20M,3.30%,36.75M,35.44M,11.08%,9.72,14.29,249220,12.92
+2016-09-29,ITCI,Intra-cellular The  ,2016-09-30,Healthcare,Biotechnology,666.92M,-119.70M,27.56%,43.25M,35.23M,12.26%,10.23,13.63,2560000,67.82
+2016-10-05,ALNY,Alnylam Pharmaceut  ,2016-10-06,Healthcare,Biotechnology,6.22B,-360.60M,0.20%,88.46M,71.15M,11.15%,12.39,40.65,1040000,42.18
+2016-09-20,ASNA,Ascena Retail Grou  ,2016-09-20,Services,Apparel Stores,1.55B,-349.10M,25.36%,190.46M,170.17M,17.12%,12.58,6.21,1170000,23.52
+2016-09-19,SU,Suncor Energy Inc.  ,2016-10-28,Basic Materials,Independent Oil & Gas,51.14B,-2171.20M,-,1.66B,1.66B,1.06%,4.39,19.58,34430,24.4
+2016-09-19,SU,Suncor Energy Inc.  ,2016-10-28,Basic Materials,Independent Oil & Gas,51.14B,-2171.20M,-,1.66B,1.66B,1.06%,4.39,19.58,34430,24.4
+2016-09-16,MGT,Mgt Capital Invest  ,2016-09-17,Technology,Multimedia & Graphics Software,93.69M,-9.40M,5.30%,28.74M,21.99M,15.17%,0.82,3.08,307840,10.47
+2016-09-16,MGT,Mgt Capital Invest  ,2016-09-17,Technology,Multimedia & Graphics Software,93.69M,-9.40M,5.30%,28.74M,21.99M,15.17%,0.82,3.08,307840,10.47
+2016-09-15,ARLZ,Aralez Pharmaceuti  ,2016-04-26,Healthcare,Biotechnology,273.11M,-,-,63.96M,18.86M,18.95%,5.99,4.88,107540,10.62
+2016-09-19,TRP,Transcanada Corpor  ,2016-03-19,Basic Materials,Oil & Gas Pipelines,26.50B,-938.80M,-,703.72M,702.02M,0.64%,3.38,35.37,81670,24.48
+2016-09-19,ENB,Enbridge Inc  ,2016-05-24,Basic Materials,Oil & Gas Pipelines,36.97B,264.30M,9.20%,917.70M,917.70M,1.03%,7.54,33.32,105470,24.58
+2016-09-19,ECA,Encana Corporation  ,2017-07-25,Basic Materials,Major Integrated Oil & Gas,10.07B,-134.00M,-,973.00M,972.36M,1.42%,1.12,7.34,1110000,24.73
+2016-09-19,TRP,Transcanada Corpor  ,2016-03-19,Basic Materials,Oil & Gas Pipelines,26.50B,-938.80M,-,703.72M,702.02M,0.64%,3.38,35.37,81670,24.48
+2016-09-19,ENB,Enbridge Inc  ,2016-05-24,Basic Materials,Oil & Gas Pipelines,36.97B,264.30M,9.20%,917.70M,917.70M,1.03%,7.54,33.32,105470,24.58
+2016-09-19,ECA,Encana Corporation  ,2017-07-25,Basic Materials,Major Integrated Oil & Gas,10.07B,-134.00M,-,973.00M,972.36M,1.42%,1.12,7.34,1110000,24.73
+2016-09-02,PAY,Verifone Systems I  ,2016-09-06,Consumer Goods,Business Equipment,2.22B,74.10M,0.50%,132.18M,106.05M,6.54%,2.13,16.95,1080000,15.67
+2016-08-30,HSY,The Hershey Company  ,2016-09-06,Consumer Goods,Confectioners,21.33B,743.90M,0.30%,213.70M,-,-,1.62,99.15,1080000,11.21
+2016-08-30,SCSC,Scansource Inc.  ,2016-08-29,Technology,Technical & System Software,1.10B,67.10M,0.30%,25.79M,25.55M,2.00%,3.83,37.4,71520,12.43
+2016-08-29,CZR,Caesars Entertainm  ,2016-08-29,Services,Resorts & Casinos,936.62M,-1160.00M,2.80%,147.50M,82.83M,16.46%,16.27,6.55,51800,13.01
+2016-08-27,CZR,Caesars Entertainm  ,2016-08-29,Services,Resorts & Casinos,936.62M,-1160.00M,2.80%,147.50M,82.83M,16.46%,16.27,6.55,51800,13.01
+2016-08-24,LZB,La-z-boy Incorpora  ,2016-06-23,Consumer Goods,Home Furnishings & Fixtures,1.36B,76.00M,1.30%,49.68M,48.83M,2.41%,4.36,26.7,196010,14.42
+2016-08-24,LZB,La-z-boy Incorpora  ,2016-06-23,Consumer Goods,Home Furnishings & Fixtures,1.36B,76.00M,1.30%,49.68M,48.83M,2.41%,4.36,26.7,196010,14.42
+2016-08-29,CZR,Caesars Entertainm  ,2016-08-29,Services,Resorts & Casinos,936.62M,-1160.00M,2.80%,147.50M,82.83M,16.46%,16.27,6.55,51800,13.01
+2016-08-18,PTLA,Portola Pharmaceut  ,2016-08-03,Healthcare,Biotechnology,1.52B,-244.60M,0.10%,56.38M,56.17M,5.59%,4.89,20.62,99290,12.96
+2016-08-16,HAIN,The Hain Celestial  ,2016-08-17,Services,Food Wholesale,3.90B,208.30M,0.30%,103.27M,100.72M,7.90%,4.10,41.26,892980,22.73
+2016-08-12,JPM,JP Morgan Chase  ,2016-08-08,Financial,Money Center Banks,241.05B,21.84B,0.10%,3.64B,3.63B,0.81%,1.94,56.69,855150,13.4
+2016-08-11,VRX,Valeant Pharmaceut  ,2016-08-11,Healthcare,Drug Delivery,8.45B,-739.10M,2.30%,344.90M,332.75M,8.90%,1.03,24.0,1850000,12.15
+2016-08-10,MYGN,Myriad Genetics In  ,2014-10-23,Services,Research Services,2.72B,176.20M,0.30%,72.37M,71.76M,47.52%,43.98,22.59,699340,23.32
+2016-08-10,TDW,Tidewater Inc.  ,2016-05-28,Basic Materials,Oil & Gas Equipment & Services,199.04M,-87.50M,0.80%,46.94M,46.65M,24.50%,5.41,4.0,54780,14.16
+2016-08-09,MTW,Manitowoc Company  ,2016-06-17,Industrial Goods,Farm & Construction Machinery,776.90M,-129.20M,0.90%,139.23M,135.09M,9.78%,4.25,5.1,253370,11.92
+2016-08-09,MXL,Maxlinear Inc Clas  ,2015-12-28,Technology,Semiconductor - Integrated Circuits,948.95M,-36.10M,1.80%,61.58M,53.96M,4.39%,2.48,18.64,121110,14.89
+2016-08-09,NPTN,Neophotonics Corpo  ,2016-08-04,Technology,Semiconductor - Broad Line,562.80M,5.90M,1.00%,42.00M,35.95M,7.61%,3.44,11.31,51810,15.6
+2016-08-09,TWER,Towerstream Corpor  ,2016-08-10,Technology,Diversified Communication Services,9.85M,-15.50M,6.88%,3.76M,3.19M,15.32%,0.57,2.2,55650,19.41
+2016-08-09,TUBE,Tubemogul Inc.  ,2016-07-24,Technology,Application Software,406.57M,-14.80M,5.90%,35.57M,31.99M,8.12%,11.21,9.84,117010,22.15
+2016-08-10,SPWR,Sunpower Corporati  ,2016-08-14,Technology,Semiconductor - Specialized,1.47B,-339.30M,0.60%,135.24M,16.36M,95.54%,6.25,10.6,1260000,28.28
+2016-08-11,VRX,Valeant Pharmaceut  ,2016-08-11,Healthcare,Drug Delivery,8.45B,-739.10M,2.30%,344.90M,332.75M,8.90%,1.03,24.0,1850000,12.15
+2016-08-12,VJET,voxeljet AG Americ  ,2014-12-30,Technology,Computer Peripherals,157.17M,-7.50M,,18.60M,83.90M,2.61%,6.64,4.14,28680,16.45
+2016-08-09,MTW,Manitowoc Company  ,2016-06-17,Industrial Goods,Farm & Construction Machinery,776.90M,-129.20M,0.90%,139.23M,135.09M,9.78%,4.25,5.1,253370,11.92
+2016-08-08,CTRP,Ctrip.com Internat  ,2016-08-11,Services,Lodging,21.02B,159.30M,4.00%,458.07M,52.82M,69.38%,7.59,38.73,48130,10.03
+2016-08-08,CTRP,Ctrip.com Internat  ,2016-08-11,Services,Lodging,21.02B,159.30M,4.00%,458.07M,52.82M,69.38%,7.59,38.73,48130,10.03
+2016-08-05,GRMN,Garmin Ltd.  ,2016-08-21,Technology,Scientific & Technical Instruments,10.31B,500.80M,0.40%,189.53M,101.42M,9.63%,9.61,48.09,138600,11.82
+2016-08-04,VALE,Vale S.a. American  ,2016-08-01,Basic Materials,Industrial Metals & Minerals,28.06B,-8624.90M,,4.88B,3.02B,5.27%,5.60,4.81,35260,16.96
+2016-08-03,SBUX,Starbucks Corporat  ,2016-08-01,Services,Specialty Eateries,84.75B,2.67B,0.10%,1.47B,1.42B,0.86%,1.39,50.9,155490,10.28
+2016-08-03,SBUX,Starbucks Corporat  ,2016-08-01,Services,Specialty Eateries,84.75B,2.67B,0.10%,1.47B,1.42B,0.86%,1.39,50.9,155490,10.28
+2016-08-02,SBUX,Starbucks Corporat  ,2016-08-01,Services,Specialty Eateries,84.75B,2.67B,0.10%,1.47B,1.42B,0.86%,1.39,50.9,155490,10.28
+2016-07-29,FTNT,Fortinet Inc.  ,2015-12-11,Technology,Application Software,5.44B,17.30M,11.20%,171.15M,143.30M,3.07%,2.06,33.39,34470,10.17
+2016-07-29,FTNT,Fortinet Inc.  ,2015-12-11,Technology,Application Software,5.44B,17.30M,11.20%,171.15M,143.30M,3.07%,2.06,33.39,34470,10.17
+2016-07-28,CIEN,Ciena Corporation  ,2016-06-02,Technology,Communication Equipment,2.43B,18.90M,2.30%,136.68M,135.79M,10.64%,4.11,18.2,44850,10.83
+2016-07-28,RCII,Rent-a-center Inc.  ,2015-10-28,Services,Rental & Leasing Services,958.26M,100.50M,2.70%,53.06M,51.64M,15.67%,10.37,11.32,77780,14.63
+2016-07-28,INFN,Infinera Corporati  ,2016-08-13,Technology,Communication Equipment,1.29B,44.60M,0.20%,142.40M,137.10M,8.19%,3.76,8.56,1090000,31.57
+2016-07-29,EYES,Second Sight Medic  ,2017-02-09,Healthcare,Medical Appliances & Equipment,80.65M,-28.30M,0.60%,41.15M,24.75M,13.29%,6.33,3.65,36860,11.41
+2016-07-29,SLV,ishares Silver Tru  ,2016-08-03,Financial,Exchange Traded Fund,-,-,-,-,-,-,1.19,16.25,254860,15.4
+2016-07-29,BABA,Alibaba Group Hold  ,2016-08-01,Services,"Specialty Retail, Other",205.63B,10.74B,-,2.49B,752.26M,13.31%,6.58,67.16,178870,19.2
+2016-07-29,EYES,Second Sight Medic  ,2017-02-09,Healthcare,Medical Appliances & Equipment,80.65M,-28.30M,0.60%,41.15M,24.75M,13.29%,6.33,3.65,36860,11.41
+2016-07-29,SLV,ishares Silver Tru  ,2016-08-03,Financial,Exchange Traded Fund,-,-,-,-,-,-,1.19,16.25,254860,15.4
+2016-07-29,BABA,Alibaba Group Hold  ,2016-08-01,Services,"Specialty Retail, Other",205.63B,10.74B,-,2.49B,752.26M,13.31%,6.58,67.16,178870,19.2
+2016-08-02,C,Citigroup Inc.  ,2016-08-01,Financial,Money Center Banks,129.37B,14.04B,0.10%,2.95B,2.91B,1.03%,1.36,38.46,164520,10.53
+2016-08-02,V,Visa Inc.  ,2016-07-30,Financial,Credit Services,183.53B,6.84B,0.06%,2.35B,1.90B,2.57%,5.46,69.33,82180,11.44
+2016-08-02,CYH,Community Health S  ,2016-08-05,Healthcare,Hospitals,1.46B,115.00M,3.10%,116.78M,109.34M,23.30%,6.21,10.5,272310,13.93
+2016-08-02,RUBI,The Rubicon Projec  ,2016-05-18,Technology,Application Software,681.91M,7.70M,6.50%,48.26M,40.51M,3.14%,1.73,11.01,27330,19.46
+2016-08-02,BABA,Alibaba Group Hold  ,2016-08-01,Services,"Specialty Retail, Other",205.63B,10.74B,-,2.49B,752.26M,13.31%,6.58,66.77,235680,20.32
+2016-08-02,MS,Morgan Stanley  ,2016-09-12,Financial,Investment Brokerage - National,61.25B,4.19B,0.20%,1.94B,1.47B,1.00%,1.03,23.38,47040,16.5
+2016-08-02,CRAY,Cray Inc  ,2016-01-25,Technology,Diversified Computer Systems,1.48B,81.90M,2.20%,40.59M,39.29M,5.34%,7.37,24.54,109990,21.55
+2016-08-02,SGY,Stone Energy Corpo  ,2016-07-27,Basic Materials,Independent Oil & Gas,76.82M,-952.30M,2.30%,5.69M,4.87M,41.32%,1.29,8.72,45730,21.58
+2016-08-03,C,Citigroup Inc.  ,2016-08-01,Financial,Money Center Banks,129.37B,14.04B,0.10%,2.95B,2.91B,1.03%,1.36,38.46,164520,10.53
+2016-08-03,V,Visa Inc.  ,2016-07-30,Financial,Credit Services,183.53B,6.84B,0.06%,2.35B,1.90B,2.57%,5.46,69.33,82180,11.44
+2016-08-03,CYH,Community Health S  ,2016-08-05,Healthcare,Hospitals,1.46B,115.00M,3.10%,116.78M,109.34M,23.30%,6.21,10.49,273960,14.02
+2016-08-03,MS,Morgan Stanley  ,2016-09-12,Financial,Investment Brokerage - National,61.25B,4.19B,0.20%,1.94B,1.47B,1.00%,1.03,23.38,47040,16.5
+2016-08-03,RUBI,The Rubicon Projec  ,2016-05-18,Technology,Application Software,681.91M,7.70M,6.50%,48.26M,40.51M,3.14%,1.73,11.38,30280,16.75
+2016-08-03,BABA,Alibaba Group Hold  ,2016-08-01,Services,"Specialty Retail, Other",205.63B,10.74B,-,2.49B,752.26M,13.31%,6.58,66.77,235680,20.32
+2016-08-03,CRAY,Cray Inc  ,2016-01-25,Technology,Diversified Computer Systems,1.48B,81.90M,2.20%,40.59M,39.29M,5.34%,7.37,24.88,118410,20.46
+2016-08-03,SGY,Stone Energy Corpo  ,2016-07-27,Basic Materials,Independent Oil & Gas,76.82M,-952.30M,2.30%,5.69M,4.87M,41.32%,1.29,8.4,52220,24.46
+2016-08-03,C,Citigroup Inc.  ,2016-08-01,Financial,Money Center Banks,129.37B,14.04B,0.10%,2.95B,2.91B,1.03%,1.36,38.46,164520,10.53
+2016-08-03,V,Visa Inc.  ,2016-07-30,Financial,Credit Services,183.53B,6.84B,0.06%,2.35B,1.90B,2.57%,5.46,69.33,82180,11.44
+2016-08-03,CYH,Community Health S  ,2016-08-05,Healthcare,Hospitals,1.46B,115.00M,3.10%,116.78M,109.34M,23.30%,6.21,10.49,273960,14.02
+2016-08-03,MS,Morgan Stanley  ,2016-09-12,Financial,Investment Brokerage - National,61.25B,4.19B,0.20%,1.94B,1.47B,1.00%,1.03,23.38,47040,16.5
+2016-08-03,RUBI,The Rubicon Projec  ,2016-05-18,Technology,Application Software,681.91M,7.70M,6.50%,48.26M,40.51M,3.14%,1.73,11.38,30280,16.75
+2016-08-03,BABA,Alibaba Group Hold  ,2016-08-01,Services,"Specialty Retail, Other",205.63B,10.74B,-,2.49B,752.26M,13.31%,6.58,66.77,235680,20.32
+2016-08-03,CRAY,Cray Inc  ,2016-01-25,Technology,Diversified Computer Systems,1.48B,81.90M,2.20%,40.59M,39.29M,5.34%,7.37,24.88,118410,20.46
+2016-08-03,SGY,Stone Energy Corpo  ,2016-07-27,Basic Materials,Independent Oil & Gas,76.82M,-952.30M,2.30%,5.69M,4.87M,41.32%,1.29,8.4,52220,24.46
+2016-08-04,TDOC,Teladoc Inc.  ,2016-04-24,Technology,Healthcare Information Services,456.84M,-58.00M,1.40%,38.39M,37.14M,12.51%,15.53,13.97,98460,21.38
+2016-08-04,NUS,Nu Skin Enterprise  ,2017-10-03,Consumer Goods,Personal Products,3.23B,164.60M,0.90%,53.17M,51.44M,8.73%,7.39,40.52,42520,23.61
+2016-08-05,TWOU,2U Inc.  ,2015-10-17,Technology,Application Software,1.11B,-26.50M,1.30%,44.86M,38.64M,11.11%,4.91,30.81,31850,12.0
+2016-08-05,AUDC,Audiocodes Ltd.  ,2015-06-09,Technology,Communication Equipment,172.39M,-0.20M,13.24%,42.15M,33.64M,1.05%,3.06,3.6,1240000,13.04
+2016-08-05,C,Citigroup Inc.  ,2016-08-01,Financial,Money Center Banks,129.37B,14.04B,0.10%,2.95B,2.91B,1.03%,1.36,37.98,72890,13.36
+2016-08-04,CELG,Celgene Corporation  ,2016-08-08,Healthcare,Biotechnology,89.61B,1.93B,0.20%,775.60M,772.94M,0.92%,1.58,93.52,58100,19.47
+2016-08-05,FEYE,Fireeye Inc.  ,2016-08-09,Technology,Application Software,2.52B,-561.20M,5.40%,174.80M,149.35M,14.50%,3.81,13.94,3570000,16.78
+2016-08-05,BABA,Alibaba Group Hold  ,2016-08-01,Services,"Specialty Retail, Other",205.63B,10.74B,-,2.49B,752.26M,13.31%,6.58,65.47,272940,22.75
+2016-08-05,GOOG,Alphabet Inc.  ,2016-08-01,Technology,Internet Information Providers,523.48B,-,0.01%,680.92M,590.31M,0.35%,1.27,598.53,63090,22.43
+2016-08-04,SGMO,Sangamo Bioscience  ,2016-04-24,Healthcare,Biotechnology,510.43M,-40.70M,1.10%,71.69M,68.51M,15.52%,11.09,5.29,45460,22.66
+2016-08-05,HDP,Hortonworks Inc.  ,2016-10-23,Technology,Technical & System Software,483.72M,-226.70M,4.00%,61.23M,50.09M,15.97%,6.83,9.22,88350,27.0
+2016-08-08,AEE,Ameren Corporation  ,2016-05-28,Utilities,Electric Utilities,11.70B,576.00M,0.40%,243.20M,241.86M,1.99%,2.60,43.89,263040,13.94
+2016-08-08,AEE,Ameren Corporation  ,2016-05-28,Utilities,Electric Utilities,11.70B,576.00M,0.40%,243.20M,241.86M,1.99%,2.60,43.89,263040,13.94
+2016-08-09,MXL,Maxlinear Inc Clas  ,2015-12-28,Technology,Semiconductor - Integrated Circuits,948.95M,-36.10M,1.80%,61.58M,53.96M,4.39%,2.48,18.64,121110,14.89
+2016-08-09,NPTN,Neophotonics Corpo  ,2016-08-04,Technology,Semiconductor - Broad Line,562.80M,5.90M,1.00%,42.00M,35.95M,7.61%,3.44,11.31,51810,15.6
+2016-08-09,TWER,Towerstream Corpor  ,2016-08-10,Technology,Diversified Communication Services,9.85M,-15.50M,6.88%,3.76M,3.19M,15.32%,0.57,2.2,55650,19.41
+2016-08-09,TUBE,Tubemogul Inc.  ,2016-07-24,Technology,Application Software,406.57M,-14.80M,5.90%,35.57M,31.99M,8.12%,11.21,9.84,117010,22.15
+2016-07-27,MRK,Merck & Company In  ,2016-07-25,Healthcare,Drug Manufacturers - Major,163.17B,4.62B,0.04%,2.77B,2.77B,1.10%,3.43,52.25,163880,10.47
+2016-07-27,MRK,Merck & Company In  ,2016-07-25,Healthcare,Drug Manufacturers - Major,163.17B,4.62B,0.04%,2.77B,2.77B,1.10%,3.43,52.25,163880,10.47
+2016-07-27,TWTR,Twitter Inc.  ,2016-07-26,Technology,Internet Information Providers,12.96B,-438.30M,1.10%,702.66M,575.41M,10.76%,2.69,16.4,13380000,11.11
+2016-07-27,AKAM,Akamai Technologie  ,2016-06-06,Technology,Internet Information Providers,9.40B,318.50M,0.30%,175.59M,170.88M,6.75%,6.26,51.55,537220,11.26
+2016-07-26,SANM,Sanmina Corporation  ,2015-04-17,Technology,Diversified Electronics,1.97B,196.70M,1.50%,83.18M,82.03M,1.72%,2.57,26.0,54500,10.78
+2016-07-27,JD,Jd.com Inc.  ,2016-07-26,Technology,Internet Information Providers,32.84B,-1435.20M,1.84%,1.46B,321.15M,18.27%,3.49,17.71,63510,21.2
+2016-07-27,TWTR,Twitter Inc.  ,2016-07-26,Technology,Internet Information Providers,12.96B,-438.30M,1.10%,702.66M,575.41M,10.76%,2.69,16.4,13380000,11.11
+2016-07-27,AKAM,Akamai Technologie  ,2016-06-06,Technology,Internet Information Providers,9.40B,318.50M,0.30%,175.59M,170.88M,6.75%,6.26,51.55,537220,11.26
+2016-07-27,JD,Jd.com Inc.  ,2016-07-26,Technology,Internet Information Providers,32.84B,-1435.20M,1.84%,1.46B,321.15M,18.27%,3.49,17.71,63510,21.2
+2016-07-25,DIS,Walt Disney Compan  ,2016-07-30,Services,Entertainment - Diversified,156.15B,9.12B,7.82%,1.63B,1.49B,2.64%,5.36,86.92,207010,11.04
+2016-07-25,PBR,Petroleo Brasileii  ,2016-08-09,Basic Materials,Oil & Gas Drilling & Exploration,50.88B,-12715.60M,,5.85B,3.90B,2.51%,3.70,6.97,28400,17.56
+2016-07-22,ATHN,athenahealth Inc.  ,2016-12-17,Technology,Healthcare Information Services,4.51B,18.90M,0.90%,39.36M,39.07M,18.19%,10.69,121.37,102850,11.54
+2016-07-25,DIS,Walt Disney Compan  ,2016-07-30,Services,Entertainment - Diversified,156.15B,9.12B,7.82%,1.63B,1.49B,2.64%,5.36,86.92,207010,11.04
+2016-07-22,ATHN,athenahealth Inc.  ,2016-12-17,Technology,Healthcare Information Services,4.51B,18.90M,0.90%,39.36M,39.07M,18.19%,10.69,121.37,102850,11.54
+2016-07-22,SKX,Skechers U.s.a. In  ,2016-07-26,Consumer Goods,Textile - Apparel Footwear & Accessories,4.95B,273.40M,1.20%,203.14M,129.75M,8.37%,3.72,27.25,1000000,15.32
+2016-07-20,ATVI,Activision Blizzar  ,2016-07-23,Technology,Multimedia & Graphics Software,30.34B,826.00M,5.00%,732.10M,661.89M,2.71%,1.98,35.25,47290,15.1
+2016-07-21,V,Visa Inc.  ,2016-07-25,Financial,Credit Services,187.91B,6.84B,0.06%,2.35B,1.90B,2.57%,5.49,70.69,132670,10.93
+2016-07-19,USO,United States Oil  ,2016-07-24,Financial,Exchange Traded Fund,-,-,-,-,-,-,1.74,9.62,129310,11.06
+2016-07-18,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,68.32,99860,15.91
+2016-07-18,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,68.32,99860,15.91
+2016-07-18,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,68.32,99860,15.91
+2016-07-18,MA,Mastercard Incorpo  ,2016-07-29,Financial,Credit Services,102.69B,3.75B,10.80%,1.07B,943.83M,0.53%,1.21,75.97,48850,16.45
+2016-07-15,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,70.22,120280,14.1
+2016-07-15,DIS,Walt Disney Compan  ,2016-07-04,Services,Entertainment - Diversified,158.71B,9.12B,0.10%,1.62B,1.49B,2.62%,5.26,85.37,68230,14.6
+2016-07-15,SYF,Synchrony Financial  ,2016-07-17,Financial,Credit Services,23.60B,2.24B,0.20%,839.26M,833.47M,2.15%,1.96,23.79,157600,15.94
+2016-07-15,XOP,Spdr S&p Oil & Gas  ,2016-08-26,Financial,Exchange Traded Fund,-,-,-,-,-,-,4.32,31.29,293030,10.75
+2016-07-15,STX,Seagate Technology  ,2016-08-01,Technology,Data Storage Devices,9.73B,315.00M,0.10%,303.80M,295.75M,9.52%,4.04,24.36,65340,16.55
+2016-07-18,MA,Mastercard Incorpo  ,2016-07-29,Financial,Credit Services,102.69B,3.75B,10.80%,1.07B,943.83M,0.53%,1.21,75.97,48850,16.45
+2016-07-18,MA,Mastercard Incorpo  ,2016-07-29,Financial,Credit Services,102.69B,3.75B,10.80%,1.07B,943.83M,0.53%,1.21,75.97,48850,16.45
+2016-07-19,JD,Jd.com Inc.  ,2016-07-26,Technology,Internet Information Providers,32.84B,-1435.20M,1.84%,1.46B,321.15M,18.27%,3.49,17.96,41030,18.87
+2016-07-19,HAL,Halliburton Company  ,2016-07-19,Basic Materials,Oil & Gas Equipment & Services,39.49B,-2437.00M,0.20%,865.88M,857.01M,2.95%,2.47,39.23,26360,13.98
+2016-07-19,IBN,Icici Bank Limited  ,2016-06-22,Financial,Money Center Banks,20.53B,905.30M,,2.88B,2.88B,0.86%,2.28,6.07,82370,23.59
+2016-07-20,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,66.77,37420,19.33
+2016-07-20,IBN,Icici Bank Limited  ,2016-06-22,Financial,Money Center Banks,20.53B,905.30M,,2.88B,2.88B,0.86%,2.28,6.06,37470,23.23
+2016-07-20,ZFGN,Zafgen Inc.  ,2016-08-11,Healthcare,Biotechnology,88.91M,-78.60M,0.30%,27.44M,25.98M,8.61%,3.15,3.9,300890,42.22
+2016-07-19,NFLX,Netflix Inc.  ,2016-07-20,Services,CATV Systems,36.63B,126.60M,1.82%,426.69M,415.95M,8.17%,2.61,85.69,12990000,13.28
+2016-07-20,ATVI,Activision Blizzar  ,2016-07-23,Technology,Multimedia & Graphics Software,30.34B,826.00M,5.00%,732.10M,661.89M,2.71%,1.98,35.25,47290,15.1
+2016-07-20,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,66.77,37420,19.33
+2016-07-20,IBN,Icici Bank Limited  ,2016-06-22,Financial,Money Center Banks,20.53B,905.30M,,2.88B,2.88B,0.86%,2.28,6.06,37470,23.23
+2016-07-20,ZFGN,Zafgen Inc.  ,2016-08-11,Healthcare,Biotechnology,88.91M,-78.60M,0.30%,27.44M,25.98M,8.61%,3.15,3.9,300890,42.22
+2016-07-22,OLN,Olin Corporation  ,2016-07-29,Basic Materials,Specialty Chemicals,4.42B,-52.40M,0.80%,208.68M,161.04M,11.13%,5.68,21.0,35750,19.48
+2016-07-22,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,65.47,187050,22.23
+2016-07-25,CTRP,Ctrip.com Internat  ,2016-08-11,Services,Lodging,21.02B,159.30M,4.00%,458.07M,52.82M,69.38%,7.59,38.73,54520,11.63
+2016-07-25,V,Visa Inc.  ,2016-07-25,Financial,Credit Services,187.91B,6.84B,0.06%,2.35B,1.90B,2.57%,5.49,67.15,88050,15.97
+2016-07-25,JPM,JP Morgan Chase  ,2016-07-20,Financial,Money Center Banks,233.30B,21.84B,0.10%,3.65B,3.63B,0.75%,1.72,54.59,131920,14.76
+2016-07-25,PBR,Petroleo Brasileii  ,2016-08-09,Basic Materials,Oil & Gas Drilling & Exploration,50.88B,-12715.60M,,5.85B,3.90B,2.51%,3.70,6.97,28400,17.56
+2016-07-22,SKX,Skechers U.s.a. In  ,2016-07-26,Consumer Goods,Textile - Apparel Footwear & Accessories,4.95B,273.40M,1.20%,203.14M,129.75M,8.37%,3.72,27.25,1000000,15.32
+2016-07-22,OLN,Olin Corporation  ,2016-07-29,Basic Materials,Specialty Chemicals,4.42B,-52.40M,0.80%,208.68M,161.04M,11.13%,5.68,21.0,35750,19.48
+2016-07-22,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,65.47,187050,22.23
+2016-07-25,DIS,Walt Disney Compan  ,2016-07-30,Services,Entertainment - Diversified,156.15B,9.12B,7.82%,1.63B,1.49B,2.64%,5.36,86.92,207010,11.04
+2016-07-25,CTRP,Ctrip.com Internat  ,2016-08-11,Services,Lodging,21.02B,159.30M,4.00%,458.07M,52.82M,69.38%,7.59,38.73,54520,11.63
+2016-07-25,JPM,JP Morgan Chase  ,2016-07-20,Financial,Money Center Banks,233.30B,21.84B,0.10%,3.65B,3.63B,0.75%,1.72,54.59,131920,14.76
+2016-07-25,V,Visa Inc.  ,2016-07-25,Financial,Credit Services,187.91B,6.84B,0.06%,2.35B,1.90B,2.57%,5.49,67.15,88050,15.97
+2016-07-25,CTRP,Ctrip.com Internat  ,2016-08-11,Services,Lodging,21.02B,159.30M,4.00%,458.07M,52.82M,69.38%,7.59,38.73,54520,11.63
+2016-07-25,JPM,JP Morgan Chase  ,2016-07-20,Financial,Money Center Banks,233.30B,21.84B,0.10%,3.65B,3.63B,0.75%,1.72,54.59,131920,14.76
+2016-07-25,V,Visa Inc.  ,2016-07-25,Financial,Credit Services,187.91B,6.84B,0.06%,2.35B,1.90B,2.57%,5.49,67.15,88050,15.97
+2016-07-25,PBR,Petroleo Brasileii  ,2016-08-09,Basic Materials,Oil & Gas Drilling & Exploration,50.88B,-12715.60M,,5.85B,3.90B,2.51%,3.70,6.97,28400,17.56
+2016-07-15,XOP,Spdr S&p Oil & Gas  ,2016-08-26,Financial,Exchange Traded Fund,-,-,-,-,-,-,4.32,31.29,293030,10.75
+2016-07-15,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,70.22,120280,14.1
+2016-07-15,DIS,Walt Disney Compan  ,2016-07-04,Services,Entertainment - Diversified,158.71B,9.12B,0.10%,1.62B,1.49B,2.62%,5.26,85.37,68230,14.6
+2016-07-15,SYF,Synchrony Financial  ,2016-07-17,Financial,Credit Services,23.60B,2.24B,0.20%,839.26M,833.47M,2.15%,1.96,23.79,157600,15.94
+2016-07-15,STX,Seagate Technology  ,2016-08-01,Technology,Data Storage Devices,9.73B,315.00M,0.10%,303.80M,295.75M,9.52%,4.04,24.36,65340,16.55
+2016-07-15,XOP,Spdr S&p Oil & Gas  ,2016-08-26,Financial,Exchange Traded Fund,-,-,-,-,-,-,4.32,31.29,293030,10.75
+2016-07-15,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,70.22,120280,14.1
+2016-07-14,V,Visa Inc.  ,2016-07-09,Financial,Credit Services,181.50B,6.84B,0.06%,2.37B,1.90B,2.40%,5.16,69.4,59140,10.41
+2016-07-14,WFC,Wells Fargo & Comp  ,2016-06-28,Financial,Money Center Banks,234.05B,21.09B,0.10%,5.08B,5.07B,0.49%,1.34,42.19,123250,12.6
+2016-07-14,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,69.5,84170,13.73
+2016-07-13,AAL,American Airlines  ,2016-07-13,Services,Major Airlines,21.01B,7.38B,0.90%,606.25M,573.15M,6.89%,3.42,31.16,235660,10.1
+2016-07-13,AAL,American Airlines  ,2016-07-13,Services,Major Airlines,21.01B,7.38B,0.90%,606.25M,573.15M,6.89%,3.42,31.16,235660,10.1
+2016-07-13,AAL,American Airlines  ,2016-07-13,Services,Major Airlines,21.01B,7.38B,0.90%,606.25M,573.15M,6.89%,3.42,31.16,235660,10.1
+2016-07-12,FB,Facebook Inc.  ,2016-07-11,Technology,Internet Information Providers,331.37B,4.67B,0.30%,2.83B,2.24B,1.13%,1.04,102.56,259080,12.99
+2016-07-12,BMY,Bristol-myers Squi  ,2016-08-08,Healthcare,Drug Manufacturers - Major,105.68B,2.87B,0.10%,1.67B,1.67B,1.04%,2.55,63.79,150710,15.39
+2016-07-12,AMGN,Amgen Inc.  ,2016-08-01,Healthcare,Biotechnology,129.19B,7.22B,0.20%,751.00M,750.35M,1.04%,2.74,124.68,29070,22.16
+2016-07-12,FTI,Fmc Technologies I  ,2016-08-26,Basic Materials,Oil & Gas Equipment & Services,6.47B,159.60M,1.40%,226.90M,223.78M,4.09%,2.82,19.0,79500,27.51
+2016-07-12,NKE,Nike Inc.  ,2016-07-08,Consumer Goods,Textile - Apparel Footwear & Accessories,93.52B,3.76B,0.20%,1.67B,1.33B,1.11%,1.38,46.83,272060,17.59
+2016-07-13,AIR,Aar Corp.  ,2016-07-08,Industrial Goods,Aerospace/Defense Products & Services,791.11M,-52.90M,4.60%,34.82M,32.57M,2.44%,5.52,22.45,61380,10.34
+2016-07-13,FB,Facebook Inc.  ,2016-07-11,Technology,Internet Information Providers,331.37B,4.67B,0.30%,2.83B,2.24B,1.13%,1.04,101.44,126910,13.98
+2016-07-13,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,69.84,115210,14.55
+2016-07-13,LEDS,Semileds Corporati  ,2016-07-09,Technology,Semiconductor- Memory Chips,18.36M,-11.90M,1.20%,2.63M,1.48M,2.04%,0.12,6.8,65340,16.26
+2016-07-13,SYKE,Sykes Enterprises  ,2016-03-28,Technology,Information Technology Services,1.25B,68.60M,1.50%,42.79M,39.17M,2.04%,3.35,21.93,25280,28.36
+2016-07-13,AIR,Aar Corp.  ,2016-07-08,Industrial Goods,Aerospace/Defense Products & Services,791.11M,-52.90M,4.60%,34.82M,32.57M,2.44%,5.52,22.45,61380,10.34
+2016-07-13,FB,Facebook Inc.  ,2016-07-11,Technology,Internet Information Providers,331.37B,4.67B,0.30%,2.83B,2.24B,1.13%,1.04,101.44,126910,13.98
+2016-07-13,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,69.84,115210,14.55
+2016-07-13,LEDS,Semileds Corporati  ,2016-07-09,Technology,Semiconductor- Memory Chips,18.36M,-11.90M,1.20%,2.63M,1.48M,2.04%,0.12,6.8,65340,16.26
+2016-07-13,SYKE,Sykes Enterprises  ,2016-03-28,Technology,Information Technology Services,1.25B,68.60M,1.50%,42.79M,39.17M,2.04%,3.35,21.93,25280,28.36
+2016-07-13,AIR,Aar Corp.  ,2016-07-08,Industrial Goods,Aerospace/Defense Products & Services,791.11M,-52.90M,4.60%,34.82M,32.57M,2.44%,5.52,22.45,61380,10.34
+2016-07-13,FB,Facebook Inc.  ,2016-07-11,Technology,Internet Information Providers,331.37B,4.67B,0.30%,2.83B,2.24B,1.13%,1.04,101.44,126910,13.98
+2016-07-13,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,69.84,115210,14.55
+2016-07-13,LEDS,Semileds Corporati  ,2016-07-09,Technology,Semiconductor- Memory Chips,18.36M,-11.90M,1.20%,2.63M,1.48M,2.04%,0.12,6.8,65340,16.26
+2016-07-13,SYKE,Sykes Enterprises  ,2016-03-28,Technology,Information Technology Services,1.25B,68.60M,1.50%,42.79M,39.17M,2.04%,3.35,21.93,25280,28.36
+2016-07-15,DIS,Walt Disney Compan  ,2016-07-04,Services,Entertainment - Diversified,158.71B,9.12B,0.10%,1.62B,1.49B,2.62%,5.26,85.37,68230,14.6
+2016-07-14,NKE,Nike Inc.  ,2016-07-19,Consumer Goods,Textile - Apparel Footwear & Accessories,98.32B,3.76B,2.00%,1.70B,1.30B,1.22%,1.50,49.11,113220,15.32
+2016-07-15,SYF,Synchrony Financial  ,2016-07-17,Financial,Credit Services,23.60B,2.24B,0.20%,839.26M,833.47M,2.15%,1.96,23.79,157600,15.94
+2016-07-15,STX,Seagate Technology  ,2016-08-01,Technology,Data Storage Devices,9.73B,315.00M,0.10%,303.80M,295.75M,9.52%,4.04,24.36,65340,16.55
+2016-07-11,CC,Chemours Company (  ,2016-11-10,Basic Materials,Specialty Chemicals,3.72B,-82.00M,0.40%,181.48M,181.15M,3.96%,2.72,6.56,54970,14.58
+2016-07-08,TSLA,Tesla Motors Inc.  ,2016-07-10,Consumer Goods,Auto Manufacturers - Major,31.01B,-1016.70M,0.30%,143.04M,116.81M,24.52%,5.72,190.74,54210,11.67
+2016-07-08,TSLA,Tesla Motors Inc.  ,2016-07-10,Consumer Goods,Auto Manufacturers - Major,31.01B,-1016.70M,0.30%,143.04M,116.81M,24.52%,5.72,190.74,54210,11.67
+2016-07-08,TSLA,Tesla Motors Inc.  ,2016-07-10,Consumer Goods,Auto Manufacturers - Major,31.01B,-1016.70M,0.30%,143.04M,116.81M,24.52%,5.72,190.74,54210,11.67
+2016-07-07,HAL,Halliburton Company  ,2016-07-01,Basic Materials,Oil & Gas Equipment & Services,39.15B,-2437.00M,0.20%,859.26M,857.01M,3.43%,2.74,36.02,321960,17.47
+2016-07-07,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,63.71,400430,18.98
+2016-07-07,CELG,Celgene Corporation  ,2016-07-12,Healthcare,Biotechnology,80.72B,1.68B,0.20%,780.60M,772.42M,1.09%,1.95,93.52,187940,10.59
+2016-07-06,CELG,Celgene Corporation  ,2016-07-12,Healthcare,Biotechnology,80.72B,1.68B,0.20%,780.60M,772.42M,1.09%,1.95,93.52,187940,10.59
+2016-07-06,SBUX,Starbucks Corporat  ,2016-07-09,Services,Specialty Eateries,82.97B,2.54B,0.10%,1.47B,1.42B,1.28%,2.11,50.9,126790,10.35
+2016-07-06,SBUX,Starbucks Corporat  ,2016-07-09,Services,Specialty Eateries,82.97B,2.54B,0.10%,1.47B,1.42B,1.28%,2.11,50.9,126790,10.35
+2016-06-28,RGLS,Regulus Therapeuti  ,2017-06-15,Healthcare,Biotechnology,54.52M,-80.70M,1.30%,53.19M,36.69M,10.22%,3.76,2.33,599520,53.49
+2016-06-29,ANTH,Anthera Pharmaceut  ,2016-09-22,Healthcare,Biotechnology,137.18M,-44.70M,12.46%,44.54M,36.31M,14.20%,10.33,2.75,31530,10.42
+2016-06-24,SAN,Banco Santander S.  ,2016-07-29,Financial,Foreign Money Center Banks,59.70B,6.18B,21.00%,14.45B,14.29B,0.12%,2.04,4.29,26640,10.7
+2016-06-24,SAN,Banco Santander S.  ,2016-07-29,Financial,Foreign Money Center Banks,59.70B,6.18B,21.00%,14.45B,14.29B,0.12%,2.04,4.29,26640,10.7
+2016-06-23,SCS,Steelcase Inc.  ,2016-06-16,Consumer Goods,Business Equipment,1.88B,166.90M,2.50%,120.44M,100.57M,2.27%,3.44,12.79,39100,13.17
+2016-06-24,BABA,Alibaba Group Hold  ,2016-06-28,Services,"Specialty Retail, Other",183.64B,10.80B,-,2.47B,752.26M,12.61%,6.47,65.47,26030,17.27
+2016-06-24,BABA,Alibaba Group Hold  ,2016-06-28,Services,"Specialty Retail, Other",183.64B,10.80B,-,2.47B,752.26M,12.61%,6.47,65.47,26030,17.27
+2016-06-29,SBUX,Starbucks Corporat  ,2016-06-28,Services,Specialty Eateries,78.65B,2.54B,0.10%,1.46B,1.42B,1.28%,2.20,48.25,669080,12.04
+2016-06-29,LPCN,Lipocine Inc.  ,2016-10-11,Healthcare,Drugs - Generic,77.95M,-23.80M,15.94%,14.07M,-,-,5.53,5.5,50850,12.28
+2016-06-29,IBN,Icici Bank Limited  ,2016-06-22,Financial,Money Center Banks,20.53B,905.30M,,2.88B,2.88B,0.86%,2.28,5.51,575630,20.14
+2016-06-29,ESPR,Esperion Therapeut  ,2017-03-20,Healthcare,Biotechnology,534.00M,-75.00M,,22.56M,19.60M,21.54%,4.54,11.25,201630,30.47
+2016-07-06,USO,United States Oil  ,2016-07-10,Financial,Exchange Traded Fund,-,-,-,-,-,-,1.74,9.62,346390,13.93
+2016-07-06,FB,Facebook Inc.  ,2016-07-08,Technology,Internet Information Providers,331.63B,4.67B,0.30%,2.86B,2.24B,1.13%,1.01,93.89,230470,17.78
+2016-07-06,USO,United States Oil  ,2016-07-10,Financial,Exchange Traded Fund,-,-,-,-,-,-,1.74,9.62,346390,13.93
+2016-07-06,FB,Facebook Inc.  ,2016-07-08,Technology,Internet Information Providers,331.63B,4.67B,0.30%,2.86B,2.24B,1.13%,1.01,93.89,230470,17.78
+2016-07-06,HAL,Halliburton Company  ,2016-07-01,Basic Materials,Oil & Gas Equipment & Services,39.15B,-2437.00M,0.20%,859.26M,857.01M,3.43%,2.74,36.02,321960,17.47
+2016-07-06,BABA,Alibaba Group Hold  ,2016-06-28,Services,"Specialty Retail, Other",183.64B,10.80B,-,2.47B,752.26M,12.61%,6.47,63.71,400430,18.98
+2016-07-08,XOP,Spdr S&p Oil & Gas  ,2016-08-26,Financial,Exchange Traded Fund,-,-,-,-,-,-,4.32,29.33,51610,13.03
+2016-07-08,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,65.47,68940,17.49
+2016-07-08,TOT,Total S.a.  ,2016-06-09,Basic Materials,Major Integrated Oil & Gas,121.73B,4.03B,8.30%,2.46B,2.06B,0.13%,9.15,35.87,25720,22.49
+2016-07-08,JUNO,Juno Therapeutics  ,2016-07-08,Healthcare,Biotechnology,4.07B,-245.50M,5.30%,99.70M,77.95M,11.19%,7.82,29.32,1710000,28.17
+2016-07-08,XOP,Spdr S&p Oil & Gas  ,2016-08-26,Financial,Exchange Traded Fund,-,-,-,-,-,-,4.32,29.33,51610,13.03
+2016-07-08,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,65.47,68940,17.49
+2016-07-08,TOT,Total S.a.  ,2016-06-09,Basic Materials,Major Integrated Oil & Gas,121.73B,4.03B,8.30%,2.46B,2.06B,0.13%,9.15,35.87,25720,22.49
+2016-07-08,JUNO,Juno Therapeutics  ,2016-07-08,Healthcare,Biotechnology,4.07B,-245.50M,5.30%,99.70M,77.95M,11.19%,7.82,29.32,1710000,28.17
+2016-07-08,XOP,Spdr S&p Oil & Gas  ,2016-08-26,Financial,Exchange Traded Fund,-,-,-,-,-,-,4.32,29.33,51610,13.03
+2016-07-08,BABA,Alibaba Group Hold  ,2016-07-16,Services,"Specialty Retail, Other",201.92B,10.70B,-,2.49B,752.26M,12.61%,6.34,65.47,68940,17.49
+2016-07-08,TOT,Total S.a.  ,2016-06-09,Basic Materials,Major Integrated Oil & Gas,121.73B,4.03B,8.30%,2.46B,2.06B,0.13%,9.15,35.87,25720,22.49
+2016-07-08,JUNO,Juno Therapeutics  ,2016-07-08,Healthcare,Biotechnology,4.07B,-245.50M,5.30%,99.70M,77.95M,11.19%,7.82,29.32,1710000,28.17
+2016-07-11,NFLX,Netflix Inc.  ,2016-07-09,Services,CATV Systems,41.55B,126.60M,1.82%,428.12M,415.95M,8.75%,2.77,78.22,185040,19.42
+2016-07-11,CC,Chemours Company (  ,2016-11-10,Basic Materials,Specialty Chemicals,3.72B,-82.00M,0.40%,181.48M,181.15M,3.96%,2.72,6.56,54970,14.58
+2016-07-11,NFLX,Netflix Inc.  ,2016-07-09,Services,CATV Systems,41.55B,126.60M,1.82%,428.12M,415.95M,8.75%,2.77,78.22,185040,19.42
+2016-06-23,SCS,Steelcase Inc.  ,2016-06-16,Consumer Goods,Business Equipment,1.88B,166.90M,2.50%,120.44M,100.57M,2.27%,3.44,12.79,39100,13.17
+2016-06-21,SBUX,Starbucks Corporat  ,2016-06-28,Services,Specialty Eateries,78.65B,2.54B,0.10%,1.46B,1.42B,1.28%,2.20,48.61,53910,12.23
+2016-06-22,TSLA,Tesla Motors Inc.  ,2016-06-22,Consumer Goods,Auto Manufacturers - Major,32.40B,-1016.70M,0.30%,147.55M,116.81M,24.31%,5.58,194.0,2010000,11.66
+2016-06-22,V,Visa Inc.  ,2016-06-22,Financial,Credit Services,187.68B,6.84B,0.06%,2.43B,1.90B,2.23%,5.47,69.33,84020,10.35
+2016-06-20,BABA,Alibaba Group Hold  ,2016-06-13,Services,"Specialty Retail, Other",190.69B,10.90B,-,2.53B,752.26M,10.33%,5.44,65.83,1370000,14.5
+2016-06-20,BAC,Bank of America Co  ,2016-06-16,Financial,Money Center Banks,140.59B,13.65B,0.06%,10.54B,10.26B,0.74%,0.85,11.87,3170000,11.4
+2016-06-21,SBUX,Starbucks Corporat  ,2016-06-28,Services,Specialty Eateries,78.65B,2.54B,0.10%,1.46B,1.42B,1.28%,2.20,48.61,53910,12.23
